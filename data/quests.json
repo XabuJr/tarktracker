@@ -1,0 +1,226 @@
+{
+  "version": "2025-11-26",
+  "quests": [
+    {
+      "name": "Tour",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "PMC dogtags",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "PMC dogtags",
+            "quantity": 5,
+            "foundInRaid": false
+          },
+          {
+            "name": "PMC dogtags",
+            "quantity": 5,
+            "foundInRaid": true
+          }
+        ],
+        "currencies": [
+          {
+            "amount": 250000,
+            "currency": "Rouble"
+          },
+          {
+            "amount": 250000,
+            "currency": "Rouble"
+          },
+          {
+            "amount": 20000,
+            "currency": "Dollar"
+          },
+          {
+            "amount": 20000,
+            "currency": "Dollar"
+          },
+          {
+            "amount": 20000,
+            "currency": "Dollar"
+          }
+        ],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Debut",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "MP-133 12ga shotguns",
+            "quantity": 2,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Ice Cream Cones",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "AK-74 5.45x39 6L31 60-round magazines",
+            "quantity": 3,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "The Punisher - Part 2",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Lower half-masks",
+            "quantity": 7,
+            "foundInRaid": true
+          },
+          {
+            "name": "half-masks",
+            "quantity": 7,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "The Punisher - Part 4",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Bars A-2607 95Kh18 knives",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "Bars A-2607 95Kh18 knives",
+            "quantity": 5,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "The Punisher - Part 5",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Makarov PM pistols",
+            "quantity": 2,
+            "foundInRaid": true
+          }
+        ],
+        "currencies": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "The Punisher - Part 6",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "BEAR PMC dogtags",
+            "quantity": 7,
+            "foundInRaid": true
+          },
+          {
+            "name": "BEAR dogtags",
+            "quantity": 7,
+            "foundInRaid": false
+          },
+          {
+            "name": "USEC PMC dogtags",
+            "quantity": 7,
+            "foundInRaid": true
+          },
+          {
+            "name": "USEC dogtags",
+            "quantity": 7,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Perfect Mediator",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "loyalty",
+            "quantity": 4,
+            "foundInRaid": false
+          },
+          {
+            "name": "loyalty",
+            "quantity": 4,
+            "foundInRaid": false
+          },
+          {
+            "name": "loyalty",
+            "quantity": 4,
+            "foundInRaid": false
+          },
+          {
+            "name": "loyalty",
+            "quantity": 4,
+            "foundInRaid": false
+          },
+          {
+            "name": "loyalty",
+            "quantity": 4,
+            "foundInRaid": false
+          },
+          {
+            "name": "loyalty",
+            "quantity": 4,
+            "foundInRaid": false
+          },
+          {
+            "name": "loyalty",
+            "quantity": 4,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "No Questions Asked",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "found in raid Red Rebel ice picks",
+            "quantity": 2,
+            "foundInRaid": true
+          }
+        ],
+        "currencies": [],
+        "type": "standard"
+      }
+    }
+  ]
+}

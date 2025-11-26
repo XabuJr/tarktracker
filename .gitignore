@@ -1,0 +1,8 @@
+# Ignore everything by default
+*
+!.gitignore
+!README.md
+
+# But allow the data directory and JSON files
+!data/
+!data/*.json
