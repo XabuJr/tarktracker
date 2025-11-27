@@ -1,224 +1,1265 @@
 {
-  "version": "2025-11-26",
+  "version": "2025-11-27",
   "quests": [
     {
-      "name": "Tour",
+      "name": "Living High is Not a Crime - Part 1",
       "giver": "Unknown",
       "objectives": {
         "items": [
           {
-            "name": "PMC dogtags",
-            "quantity": 5,
+            "name": "Bronze lion figurines",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "PMC dogtags",
-            "quantity": 5,
+            "name": "Horse figurines",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Cat figurine",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Roler Submariner gold wrist watch",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Golden egg",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Bronze lion figurines",
+            "quantity": 2,
             "foundInRaid": false
           },
           {
-            "name": "PMC dogtags",
-            "quantity": 5,
-            "foundInRaid": true
+            "name": "Horse figurines",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "Cat figurine",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "Roler Submariner gold wrist watch",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "Golden egg",
+            "quantity": 1,
+            "foundInRaid": false
           }
         ],
-        "currencies": [
-          {
-            "amount": 250000,
-            "currency": "Rouble"
-          },
-          {
-            "amount": 250000,
-            "currency": "Rouble"
-          },
-          {
-            "amount": 20000,
-            "currency": "Dollar"
-          },
-          {
-            "amount": 20000,
-            "currency": "Dollar"
-          },
-          {
-            "amount": 20000,
-            "currency": "Dollar"
-          }
-        ],
+        "currencies": [],
+        "other": [],
         "type": "standard"
       }
     },
     {
-      "name": "Debut",
+      "name": "Living High is Not a Crime - Part 2",
       "giver": "Unknown",
       "objectives": {
         "items": [
           {
-            "name": "MP-133 12ga shotguns",
+            "name": "Antique teapots",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Antique vases",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Axel parrot figurine",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Raven figurines",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Antique teapots",
+            "quantity": 3,
+            "foundInRaid": false
+          },
+          {
+            "name": "Antique vases",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "Axel parrot figurine",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "Raven figurines",
             "quantity": 2,
             "foundInRaid": false
           }
         ],
         "currencies": [],
+        "other": [],
         "type": "standard"
       }
     },
     {
-      "name": "Ice Cream Cones",
+      "name": "Samples",
       "giver": "Unknown",
       "objectives": {
         "items": [
           {
-            "name": "AK-74 5.45x39 6L31 60-round magazines",
+            "name": "M.U.L.E. stimulant injector",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "M.U.L.E. stimulant injector",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "Obdolbos cocktail injector",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Obdolbos cocktail injector",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "Meldonin stimulant injector",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Meldonin stimulant injector",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "AHF1-M stimulant injector",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "AHF1-M stimulant injector",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "P22  stimulant injector",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "P22  stimulant injector",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "L1  stimulant injector",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "L1  stimulant injector",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "3- stimulant injector",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "3- stimulant injector",
+            "quantity": 1,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Collector",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Signature Blend English Tea",
+            "quantity": 42,
+            "foundInRaid": true
+          },
+          {
+            "name": "Signature Blend English Tea",
+            "quantity": 42,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [
+          "Find Old firesteel in raid",
+          "Hand over the Old firesteel",
+          "Find Antique axe in raid",
+          "Hand over the Antique axe",
+          "Find Battered antique book in raid",
+          "Hand over the Battered antique book",
+          "Find #FireKlean gun lube in raid",
+          "Hand over the #FireKlean gun lube",
+          "Find Golden rooster figurine in raid",
+          "Hand over the Golden rooster figurine",
+          "Find Silver Badge in raid",
+          "Hand over the Silver Badge",
+          "Find Deadlyslob's beard oil in raid",
+          "Hand over the Deadlyslob's beard oil",
+          "Find Golden 1GPhone smartphone in raid",
+          "Hand over the Golden 1GPhone smartphone",
+          "Find Jar of DevilDog mayo in raid",
+          "Hand over the Jar of DevilDog mayo",
+          "Find Can of sprats in raid",
+          "Hand over the Can of sprats",
+          "Find Fake mustache in raid",
+          "Hand over the Fake mustache",
+          "Find Kotton beanie in raid",
+          "Hand over the Kotton beanie",
+          "Find Raven figurine in raid",
+          "Hand over the Raven figurine",
+          "Find Pestily plague mask in raid",
+          "Hand over the Pestily plague mask",
+          "Find Shroud half-mask in raid",
+          "Hand over the Shroud half-mask",
+          "Find Can of Dr. Lupo's coffee beans in raid",
+          "Hand over the Can of Dr. Lupo's coffee beans",
+          "Find Veritas guitar pick in raid",
+          "Hand over the Veritas guitar pick",
+          "Find Armband (Evasion) in raid",
+          "Hand over the Armband (Evasion)",
+          "Find Can of RatCola soda in raid",
+          "Hand over the Can of RatCola soda",
+          "Find Loot Lord plushie in raid",
+          "Hand over the Loot Lord plushie",
+          "Find WZ Wallet in raid",
+          "Hand over the WZ Wallet",
+          "Find LVNDMARK's rat poison in raid",
+          "Hand over the LVNDMARK's rat poison",
+          "Find Smoke balaclava in raid",
+          "Hand over the Smoke balaclava",
+          "Find Missam forklift key in raid",
+          "Hand over the Missam forklift key",
+          "Find Video cassette with the Cyborg Killer movie in raid",
+          "Hand over the Video cassette with the Cyborg Killer movie",
+          "Find BakeEzy cook book in raid",
+          "Hand over the BakeEzy cook book",
+          "Find JohnB Liquid DNB glasses in raid",
+          "Hand over the JohnB Liquid DNB glasses",
+          "Find Glorious E lightweight armored mask in raid",
+          "Hand over the Glorious E lightweight armored mask",
+          "Find Baddie's red beard in raid",
+          "Hand over the Baddie's red beard",
+          "Find DRD body armor in raid",
+          "Hand over the DRD body armor",
+          "Find Gingy keychain in raid",
+          "Hand over the Gingy keychain",
+          "Find Golden egg in raid",
+          "Hand over the Golden egg",
+          "Find Press pass (issued for NoiceGuy) in raid",
+          "Hand over the Press pass (issued for NoiceGuy)",
+          "Find Axel parrot figurine in raid",
+          "Hand over the Axel parrot figurine",
+          "Find BEAR Buddy plush toy in raid",
+          "Hand over the BEAR Buddy plush toy",
+          "Find Inseq gas pipe wrench in raid",
+          "Hand over the Inseq gas pipe wrench",
+          "Find Viibiin sneaker in raid",
+          "Hand over the Viibiin sneaker",
+          "Find Tamatthi kunai knife replica in raid",
+          "Hand over the Tamatthi kunai knife replica"
+        ],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Regulated Materials",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "6-STEN-140-M military battery",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "military battery",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "OFZ 30x165mm shells",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "OFZ shells",
+            "quantity": 5,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Car Repair",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Car batteries",
+            "quantity": 4,
+            "foundInRaid": true
+          },
+          {
+            "name": "Spark plugs",
+            "quantity": 8,
+            "foundInRaid": true
+          },
+          {
+            "name": "batteries",
+            "quantity": 4,
+            "foundInRaid": false
+          },
+          {
+            "name": "spark plugs",
+            "quantity": 8,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Sanitary Standards - Part 1",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Gas analyzer",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Gas analyzer",
+            "quantity": 1,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Sanitary Standards - Part 2",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Gas analyzers",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Gas analyzers",
+            "quantity": 2,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Painkiller",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Morphine injectors",
+            "quantity": 4,
+            "foundInRaid": true
+          },
+          {
+            "name": "injectors",
+            "quantity": 4,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Private Clinic",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Ophthalmoscope",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "LEDX Skin Transilluminator",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Ophthalmoscope",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "LEDX Skin Transilluminator",
+            "quantity": 1,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Crisis",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Portable defibrillators",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Ophthalmoscopes",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "LEDX Skin Transilluminators",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Piles of meds",
+            "quantity": 20,
+            "foundInRaid": true
+          },
+          {
+            "name": "Bottles of OLOLO Multivitamins",
+            "quantity": 10,
+            "foundInRaid": true
+          },
+          {
+            "name": "ophthalmoscopes",
+            "quantity": 3,
+            "foundInRaid": false
+          },
+          {
+            "name": "defibrillators",
+            "quantity": 3,
+            "foundInRaid": false
+          },
+          {
+            "name": "LEDX",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "Piles of meds",
+            "quantity": 20,
+            "foundInRaid": false
+          },
+          {
+            "name": "multivitamins",
+            "quantity": 10,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Spa Tour - Part 3",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "WD-40  or WD-40",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "WD-40  or WD-40",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "Clin window cleaners",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Clin window cleaners",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "Corrugated hoses",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Corrugated hoses",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "Ox bleachs",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Ox bleachs",
+            "quantity": 2,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Spa Tour - Part 7",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Morphine injectors",
+            "quantity": 4,
+            "foundInRaid": true
+          },
+          {
+            "name": "Morphine injectors",
+            "quantity": 4,
+            "foundInRaid": false
+          },
+          {
+            "name": "Alkaline cleaners for heat exchangers",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Alkaline cleaners for heat exchangers",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "Corrugated hoses",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Corrugated hoses",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "5L propane tanks",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "5L propane tanks",
+            "quantity": 2,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Lend-Lease - Part 2",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Virtex programmable processors",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Military COFDM Wireless Signal Transmitter",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Virtex programmable processors",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "Military COFDM Wireless Signal Transmitter",
+            "quantity": 1,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Special Equipment",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "VPX Flash Storage Modules",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "UHF RFID Readers",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "Virtex programmable processors",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "Military COFDM Wireless Signal Transmitters",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "Military flash drives",
+            "quantity": 4,
+            "foundInRaid": true
+          },
+          {
+            "name": "VPX Flash Storage Modules",
+            "quantity": 5,
+            "foundInRaid": false
+          },
+          {
+            "name": "UHF RFID Readers",
+            "quantity": 5,
+            "foundInRaid": false
+          },
+          {
+            "name": "Virtex programmable processors",
+            "quantity": 5,
+            "foundInRaid": false
+          },
+          {
+            "name": "Military COFDM Wireless Signal Transmitters",
+            "quantity": 5,
+            "foundInRaid": false
+          },
+          {
+            "name": "Military flash drives",
+            "quantity": 4,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Signal - Part 2",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "PC CPUs",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "PC CPUs",
+            "quantity": 3,
+            "foundInRaid": false
+          },
+          {
+            "name": "Rechargeable batteries",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Rechargeable batteries",
+            "quantity": 3,
+            "foundInRaid": false
+          },
+          {
+            "name": "Printed circuit boards",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Printed circuit boards",
+            "quantity": 3,
+            "foundInRaid": false
+          },
+          {
+            "name": "Broken GPhone smartphones",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Broken GPhone smartphones",
             "quantity": 3,
             "foundInRaid": false
           }
         ],
         "currencies": [],
+        "other": [],
         "type": "standard"
       }
     },
     {
-      "name": "The Punisher - Part 2",
+      "name": "Farming - Part 2",
       "giver": "Unknown",
       "objectives": {
         "items": [
           {
-            "name": "Lower half-masks",
-            "quantity": 7,
+            "name": "Power cords",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "half-masks",
-            "quantity": 7,
+            "name": "T-Shaped Plugs",
+            "quantity": 4,
+            "foundInRaid": true
+          },
+          {
+            "name": "Printed circuit boards",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Power cords",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "T-Shaped Plugs",
+            "quantity": 4,
+            "foundInRaid": false
+          },
+          {
+            "name": "Printed circuit boards",
+            "quantity": 2,
             "foundInRaid": false
           }
         ],
         "currencies": [],
+        "other": [],
         "type": "standard"
       }
     },
     {
-      "name": "The Punisher - Part 4",
+      "name": "Bad Habit",
       "giver": "Unknown",
       "objectives": {
         "items": [
           {
-            "name": "Bars A-2607 95Kh18 knives",
+            "name": "Malboro cigarettes",
             "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "Bars A-2607 95Kh18 knives",
+            "name": "Strike cigarettes",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "Wilston cigarettes",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "Malboro cigarettes",
+            "quantity": 5,
+            "foundInRaid": false
+          },
+          {
+            "name": "Strike cigarettes",
+            "quantity": 5,
+            "foundInRaid": false
+          },
+          {
+            "name": "Wilston cigarettes",
             "quantity": 5,
             "foundInRaid": false
           }
         ],
         "currencies": [],
+        "other": [],
         "type": "standard"
       }
     },
     {
-      "name": "The Punisher - Part 5",
+      "name": "Farming - Part 4",
       "giver": "Unknown",
       "objectives": {
         "items": [
           {
-            "name": "Makarov PM pistols",
+            "name": "Graphics cards",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "CPU fans",
+            "quantity": 15,
+            "foundInRaid": true
+          },
+          {
+            "name": "Graphics cards",
+            "quantity": 3,
+            "foundInRaid": false
+          },
+          {
+            "name": "CPU fans",
+            "quantity": 15,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Fertilizers",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Bundle of wires",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "Capacitors",
+            "quantity": 5,
+            "foundInRaid": true
+          },
+          {
+            "name": "Bundle of wires",
+            "quantity": 5,
+            "foundInRaid": false
+          },
+          {
+            "name": "Capacitors",
+            "quantity": 5,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Import",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "UHF RFID Fixed Reader",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "VPX Flash Storage Module",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "UHF RFID Fixed Reader",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "VPX Flash Storage Module",
+            "quantity": 1,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Network Provider - Part 1",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Electronic components",
+            "quantity": 4,
+            "foundInRaid": true
+          },
+          {
+            "name": "Military COFDM Wireless Signal Transmitters",
+            "quantity": 4,
+            "foundInRaid": true
+          },
+          {
+            "name": "Gas analyzers",
+            "quantity": 4,
+            "foundInRaid": true
+          },
+          {
+            "name": "Broken GPhone smartphones",
+            "quantity": 4,
+            "foundInRaid": true
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Dressed to Kill",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Kinda Cowboy hats",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Ushanka ear-flap caps",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Ushanka ear-flap caps",
+            "quantity": 2,
+            "foundInRaid": false
+          },
+          {
+            "name": "Kinda Cowboy hats",
+            "quantity": 2,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Sew it Good - Part 1",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Ski hat",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Ski hat",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "Pilgrim tourist backpack",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Pilgrim tourist backpack",
+            "quantity": 1,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "The Blood of War - Part 2",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Fuel conditioners",
+            "quantity": 4,
+            "foundInRaid": true
+          },
+          {
+            "name": "Fuel conditioners",
+            "quantity": 4,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Sew it Good - Part 4",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "WARTECH TV-109 + TV-106 chest rigs",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "BlackRock chest rigs",
             "quantity": 2,
             "foundInRaid": true
           }
         ],
         "currencies": [],
+        "other": [
+          "Hand over the chest rigs",
+          "Hand over the chest rigs"
+        ],
         "type": "standard"
       }
     },
     {
-      "name": "The Punisher - Part 6",
+      "name": "Textile - Part 1",
       "giver": "Unknown",
       "objectives": {
         "items": [
           {
-            "name": "BEAR PMC dogtags",
-            "quantity": 7,
+            "name": "Aramid fabrics",
+            "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "BEAR dogtags",
-            "quantity": 7,
+            "name": "Aramid fabrics",
+            "quantity": 5,
             "foundInRaid": false
           },
           {
-            "name": "USEC PMC dogtags",
-            "quantity": 7,
+            "name": "Ripstop fabrics",
+            "quantity": 10,
             "foundInRaid": true
           },
           {
-            "name": "USEC dogtags",
-            "quantity": 7,
+            "name": "Ripstop fabrics",
+            "quantity": 10,
+            "foundInRaid": false
+          },
+          {
+            "name": "Paracords",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Paracords",
+            "quantity": 3,
             "foundInRaid": false
           }
         ],
         "currencies": [],
+        "other": [],
         "type": "standard"
       }
     },
     {
-      "name": "Perfect Mediator",
+      "name": "Textile - Part 2",
       "giver": "Unknown",
       "objectives": {
         "items": [
           {
-            "name": "loyalty",
-            "quantity": 4,
+            "name": "Fleece fabrics",
+            "quantity": 10,
+            "foundInRaid": true
+          },
+          {
+            "name": "Fleece fabrics",
+            "quantity": 10,
             "foundInRaid": false
           },
           {
-            "name": "loyalty",
-            "quantity": 4,
+            "name": "Cordura polyamide fabrics",
+            "quantity": 10,
+            "foundInRaid": true
+          },
+          {
+            "name": "Cordura polyamide fabrics",
+            "quantity": 10,
             "foundInRaid": false
           },
           {
-            "name": "loyalty",
-            "quantity": 4,
-            "foundInRaid": false
+            "name": "KEKTAPE duct tapes",
+            "quantity": 5,
+            "foundInRaid": true
           },
           {
-            "name": "loyalty",
-            "quantity": 4,
-            "foundInRaid": false
-          },
-          {
-            "name": "loyalty",
-            "quantity": 4,
-            "foundInRaid": false
-          },
-          {
-            "name": "loyalty",
-            "quantity": 4,
-            "foundInRaid": false
-          },
-          {
-            "name": "loyalty",
-            "quantity": 4,
+            "name": "KEKTAPE duct tapes",
+            "quantity": 5,
             "foundInRaid": false
           }
         ],
         "currencies": [],
+        "other": [],
         "type": "standard"
       }
     },
     {
-      "name": "No Questions Asked",
+      "name": "Acquaintance",
       "giver": "Unknown",
       "objectives": {
         "items": [
           {
-            "name": "found in raid Red Rebel ice picks",
+            "name": "Iskra ration packs",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Packs of instant noodles",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Cans of beef stew",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Iskra ration packs",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Packs of instant noodles",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Cans of beef stew",
             "quantity": 2,
             "foundInRaid": true
           }
         ],
         "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Ambulance",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Portable defibrillator",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "CMS surgery kits",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Portable defibrillator",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "CMS surgery kits",
+            "quantity": 2,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Fishing Place",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "TerraGroup Labs access keycards",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "TerraGroup Labs access keycards",
+            "quantity": 2,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
+        "type": "standard"
+      }
+    },
+    {
+      "name": "Shady Business",
+      "giver": "Unknown",
+      "objectives": {
+        "items": [
+          {
+            "name": "Secure Flash drives",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Secure Flash drives",
+            "quantity": 3,
+            "foundInRaid": false
+          }
+        ],
+        "currencies": [],
+        "other": [],
         "type": "standard"
       }
     }
