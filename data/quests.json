@@ -7,27 +7,27 @@
       "objectives": {
         "items": [
           {
-            "name": "Bronze lion figurines",
-            "quantity": 2,
-            "foundInRaid": true
-          },
-          {
-            "name": "Horse figurines",
-            "quantity": 2,
-            "foundInRaid": true
-          },
-          {
-            "name": "Cat figurine",
+            "name": "2 Bronze lion figurines",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Roler Submariner gold wrist watch",
+            "name": "2 Horse figurines",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Golden egg",
+            "name": "1 Cat figurine",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "1 Roler Submariner gold wrist watch",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "1 Golden egg",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -43,23 +43,23 @@
       "objectives": {
         "items": [
           {
-            "name": "Antique teapots",
-            "quantity": 3,
-            "foundInRaid": true
-          },
-          {
-            "name": "Antique vases",
-            "quantity": 2,
-            "foundInRaid": true
-          },
-          {
-            "name": "Axel parrot figurine",
+            "name": "3 Antique teapots",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Raven figurines",
-            "quantity": 2,
+            "name": "2 Antique vases",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "1 Axel parrot figurine",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "2 Raven figurines",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -74,37 +74,37 @@
       "objectives": {
         "items": [
           {
-            "name": "M.U.L.E. stimulant injector",
+            "name": "1 M.U.L.E. stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Obdolbos cocktail injector",
+            "name": "1 Obdolbos cocktail injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Meldonin stimulant injector",
+            "name": "1 Meldonin stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "AHF1-M stimulant injector",
+            "name": "1 AHF1-M stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "P22  stimulant injector",
+            "name": "1 P22  stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "L1  stimulant injector",
+            "name": "1 L1  stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "3- stimulant injector",
+            "name": "1 3- stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -120,90 +120,203 @@
       "objectives": {
         "items": [
           {
-            "name": "Signature Blend English Tea",
-            "quantity": 42,
+            "name": "Old firesteel",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Antique axe",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Battered antique book",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "#FireKlean gun lube",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Golden rooster figurine",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Silver Badge",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Deadlyslob's beard oil",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Golden 1GPhone smartphone",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Jar of DevilDog mayo",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Can of sprats",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Fake mustache",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Kotton beanie",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Raven figurine",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Pestily plague mask",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Shroud half-mask",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Can of Dr. Lupo's coffee beans",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "42 Signature Blend English Tea",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Veritas guitar pick",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Armband",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Can of RatCola soda",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Loot Lord plushie",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "WZ Wallet",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "LVNDMARK's rat poison",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Smoke balaclava",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Missam forklift key",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Video cassette with the Cyborg Killer movie",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "BakeEzy cook book",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "JohnB Liquid DNB glasses",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Glorious E lightweight armored mask",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Baddie's red beard",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "DRD body armor",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Gingy keychain",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Golden egg",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Press pass",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Axel parrot figurine",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "BEAR Buddy plush toy",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Inseq gas pipe wrench",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Viibiin sneaker",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "Tamatthi kunai knife replica",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
         "currencies": [],
-        "other": [
-          "Find Old firesteel in raid",
-          "Hand over the Old firesteel",
-          "Find Antique axe in raid",
-          "Hand over the Antique axe",
-          "Find Battered antique book in raid",
-          "Hand over the Battered antique book",
-          "Find #FireKlean gun lube in raid",
-          "Hand over the #FireKlean gun lube",
-          "Find Golden rooster figurine in raid",
-          "Hand over the Golden rooster figurine",
-          "Find Silver Badge in raid",
-          "Hand over the Silver Badge",
-          "Find Deadlyslob's beard oil in raid",
-          "Hand over the Deadlyslob's beard oil",
-          "Find Golden 1GPhone smartphone in raid",
-          "Hand over the Golden 1GPhone smartphone",
-          "Find Jar of DevilDog mayo in raid",
-          "Hand over the Jar of DevilDog mayo",
-          "Find Can of sprats in raid",
-          "Hand over the Can of sprats",
-          "Find Fake mustache in raid",
-          "Hand over the Fake mustache",
-          "Find Kotton beanie in raid",
-          "Hand over the Kotton beanie",
-          "Find Raven figurine in raid",
-          "Hand over the Raven figurine",
-          "Find Pestily plague mask in raid",
-          "Hand over the Pestily plague mask",
-          "Find Shroud half-mask in raid",
-          "Hand over the Shroud half-mask",
-          "Find Can of Dr. Lupo's coffee beans in raid",
-          "Hand over the Can of Dr. Lupo's coffee beans",
-          "Find Veritas guitar pick in raid",
-          "Hand over the Veritas guitar pick",
-          "Find Armband (Evasion) in raid",
-          "Hand over the Armband (Evasion)",
-          "Find Can of RatCola soda in raid",
-          "Hand over the Can of RatCola soda",
-          "Find Loot Lord plushie in raid",
-          "Hand over the Loot Lord plushie",
-          "Find WZ Wallet in raid",
-          "Hand over the WZ Wallet",
-          "Find LVNDMARK's rat poison in raid",
-          "Hand over the LVNDMARK's rat poison",
-          "Find Smoke balaclava in raid",
-          "Hand over the Smoke balaclava",
-          "Find Missam forklift key in raid",
-          "Hand over the Missam forklift key",
-          "Find Video cassette with the Cyborg Killer movie in raid",
-          "Hand over the Video cassette with the Cyborg Killer movie",
-          "Find BakeEzy cook book in raid",
-          "Hand over the BakeEzy cook book",
-          "Find JohnB Liquid DNB glasses in raid",
-          "Hand over the JohnB Liquid DNB glasses",
-          "Find Glorious E lightweight armored mask in raid",
-          "Hand over the Glorious E lightweight armored mask",
-          "Find Baddie's red beard in raid",
-          "Hand over the Baddie's red beard",
-          "Find DRD body armor in raid",
-          "Hand over the DRD body armor",
-          "Find Gingy keychain in raid",
-          "Hand over the Gingy keychain",
-          "Find Golden egg in raid",
-          "Hand over the Golden egg",
-          "Find Press pass (issued for NoiceGuy) in raid",
-          "Hand over the Press pass (issued for NoiceGuy)",
-          "Find Axel parrot figurine in raid",
-          "Hand over the Axel parrot figurine",
-          "Find BEAR Buddy plush toy in raid",
-          "Hand over the BEAR Buddy plush toy",
-          "Find Inseq gas pipe wrench in raid",
-          "Hand over the Inseq gas pipe wrench",
-          "Find Viibiin sneaker in raid",
-          "Hand over the Viibiin sneaker",
-          "Find Tamatthi kunai knife replica in raid",
-          "Hand over the Tamatthi kunai knife replica"
-        ],
+        "other": [],
         "type": "standard"
       }
     },
@@ -213,13 +326,13 @@
       "objectives": {
         "items": [
           {
-            "name": "6-STEN-140-M military battery",
+            "name": "1 6-STEN-140-M military battery",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "OFZ 30x165mm shells",
-            "quantity": 5,
+            "name": "5 OFZ 30x165mm shells",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -234,14 +347,19 @@
       "objectives": {
         "items": [
           {
-            "name": "Car batteries",
-            "quantity": 4,
+            "name": "4 Car batteries",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Spark plugs",
-            "quantity": 8,
+            "name": "8 Spark plugs",
+            "quantity": 1,
             "foundInRaid": true
+          },
+          {
+            "name": "4 batteries",
+            "quantity": 1,
+            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -255,7 +373,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Gas analyzer",
+            "name": "1 Gas analyzer",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -271,8 +389,8 @@
       "objectives": {
         "items": [
           {
-            "name": "Gas analyzers",
-            "quantity": 2,
+            "name": "2 Gas analyzers",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -287,9 +405,14 @@
       "objectives": {
         "items": [
           {
-            "name": "Morphine injectors",
-            "quantity": 4,
+            "name": "4 Morphine injectors",
+            "quantity": 1,
             "foundInRaid": true
+          },
+          {
+            "name": "4 injectors",
+            "quantity": 1,
+            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -303,12 +426,12 @@
       "objectives": {
         "items": [
           {
-            "name": "Ophthalmoscope",
+            "name": "1 Ophthalmoscope",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "LEDX Skin Transilluminator",
+            "name": "1 LEDX Skin Transilluminator",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -324,29 +447,39 @@
       "objectives": {
         "items": [
           {
-            "name": "Portable defibrillators",
-            "quantity": 3,
+            "name": "3 Portable defibrillators",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Ophthalmoscopes",
-            "quantity": 3,
+            "name": "3 Ophthalmoscopes",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "LEDX Skin Transilluminators",
-            "quantity": 2,
+            "name": "2 LEDX Skin Transilluminators",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Piles of meds",
-            "quantity": 20,
+            "name": "20 Piles of meds",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Bottles of OLOLO Multivitamins",
-            "quantity": 10,
+            "name": "10 Bottles of OLOLO Multivitamins",
+            "quantity": 1,
             "foundInRaid": true
+          },
+          {
+            "name": "3 defibrillators",
+            "quantity": 1,
+            "foundInRaid": false
+          },
+          {
+            "name": "10 multivitamins",
+            "quantity": 1,
+            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -360,23 +493,23 @@
       "objectives": {
         "items": [
           {
-            "name": "WD-40  or WD-40",
+            "name": "1 WD-40  or WD-40",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Clin window cleaners",
-            "quantity": 2,
+            "name": "2 Clin window cleaners",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Corrugated hoses",
-            "quantity": 2,
+            "name": "2 Corrugated hoses",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Ox bleachs",
-            "quantity": 2,
+            "name": "2 Ox bleachs",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -391,23 +524,23 @@
       "objectives": {
         "items": [
           {
-            "name": "Morphine injectors",
-            "quantity": 4,
+            "name": "4 Morphine injectors",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Alkaline cleaners for heat exchangers",
-            "quantity": 2,
+            "name": "2 Alkaline cleaners for heat exchangers",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Corrugated hoses",
-            "quantity": 2,
+            "name": "2 Corrugated hoses",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "5L propane tanks",
-            "quantity": 2,
+            "name": "2 5L propane tanks",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -422,12 +555,12 @@
       "objectives": {
         "items": [
           {
-            "name": "Virtex programmable processors",
-            "quantity": 2,
+            "name": "2 Virtex programmable processors",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Military COFDM Wireless Signal Transmitter",
+            "name": "1 Military COFDM Wireless Signal Transmitter",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -443,28 +576,28 @@
       "objectives": {
         "items": [
           {
-            "name": "VPX Flash Storage Modules",
-            "quantity": 5,
+            "name": "5 VPX Flash Storage Modules",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "UHF RFID Readers",
-            "quantity": 5,
+            "name": "5 UHF RFID Readers",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Virtex programmable processors",
-            "quantity": 5,
+            "name": "5 Virtex programmable processors",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Military COFDM Wireless Signal Transmitters",
-            "quantity": 5,
+            "name": "5 Military COFDM Wireless Signal Transmitters",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Military flash drives",
-            "quantity": 4,
+            "name": "4 Military flash drives",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -479,23 +612,23 @@
       "objectives": {
         "items": [
           {
-            "name": "PC CPUs",
-            "quantity": 3,
+            "name": "3 PC CPUs",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Rechargeable batteries",
-            "quantity": 3,
+            "name": "3 Rechargeable batteries",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Printed circuit boards",
-            "quantity": 3,
+            "name": "3 Printed circuit boards",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Broken GPhone smartphones",
-            "quantity": 3,
+            "name": "3 Broken GPhone smartphones",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -510,18 +643,18 @@
       "objectives": {
         "items": [
           {
-            "name": "Power cords",
-            "quantity": 2,
+            "name": "2 Power cords",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "T-Shaped Plugs",
-            "quantity": 4,
+            "name": "4 T-Shaped Plugs",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Printed circuit boards",
-            "quantity": 2,
+            "name": "2 Printed circuit boards",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -536,18 +669,18 @@
       "objectives": {
         "items": [
           {
-            "name": "Malboro cigarettes",
-            "quantity": 5,
+            "name": "5 Malboro cigarettes",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Strike cigarettes",
-            "quantity": 5,
+            "name": "5 Strike cigarettes",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Wilston cigarettes",
-            "quantity": 5,
+            "name": "5 Wilston cigarettes",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -562,13 +695,13 @@
       "objectives": {
         "items": [
           {
-            "name": "Graphics cards",
-            "quantity": 3,
+            "name": "3 Graphics cards",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "CPU fans",
-            "quantity": 15,
+            "name": "15 CPU fans",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -583,13 +716,13 @@
       "objectives": {
         "items": [
           {
-            "name": "Bundle of wires",
-            "quantity": 5,
+            "name": "5 Bundle of wires",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Capacitors",
-            "quantity": 5,
+            "name": "5 Capacitors",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -604,12 +737,12 @@
       "objectives": {
         "items": [
           {
-            "name": "UHF RFID Fixed Reader",
+            "name": "1 UHF RFID Fixed Reader",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "VPX Flash Storage Module",
+            "name": "1 VPX Flash Storage Module",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -625,23 +758,23 @@
       "objectives": {
         "items": [
           {
-            "name": "Electronic components",
-            "quantity": 4,
+            "name": "4 found in raid Electronic components",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Military COFDM Wireless Signal Transmitters",
-            "quantity": 4,
+            "name": "4 found in raid Military COFDM Wireless Signal Transmitters",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Gas analyzers",
-            "quantity": 4,
+            "name": "4 found in raid Gas analyzers",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Broken GPhone smartphones",
-            "quantity": 4,
+            "name": "4 found in raid Broken GPhone smartphones",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -656,13 +789,13 @@
       "objectives": {
         "items": [
           {
-            "name": "Kinda Cowboy hats",
-            "quantity": 2,
+            "name": "2 Kinda Cowboy hats",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Ushanka ear-flap caps",
-            "quantity": 2,
+            "name": "2 Ushanka ear-flap caps",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -677,12 +810,12 @@
       "objectives": {
         "items": [
           {
-            "name": "Ski hat",
+            "name": "1 Ski hat with holes for eyes",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Pilgrim tourist backpack",
+            "name": "1 Pilgrim tourist backpack",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -698,8 +831,8 @@
       "objectives": {
         "items": [
           {
-            "name": "Fuel conditioners",
-            "quantity": 4,
+            "name": "4 Fuel conditioners",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -714,21 +847,18 @@
       "objectives": {
         "items": [
           {
-            "name": "WARTECH TV-109 + TV-106 chest rigs",
-            "quantity": 2,
+            "name": "2 WARTECH TV-109 + TV-106 chest rigs",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "BlackRock chest rigs",
-            "quantity": 2,
+            "name": "2 BlackRock chest rigs",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
         "currencies": [],
-        "other": [
-          "Hand over the chest rigs",
-          "Hand over the chest rigs"
-        ],
+        "other": [],
         "type": "standard"
       }
     },
@@ -738,18 +868,18 @@
       "objectives": {
         "items": [
           {
-            "name": "Aramid fabrics",
-            "quantity": 5,
+            "name": "5 Aramid fabrics",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Ripstop fabrics",
-            "quantity": 10,
+            "name": "10 Ripstop fabrics",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Paracords",
-            "quantity": 3,
+            "name": "3 Paracords",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -764,18 +894,18 @@
       "objectives": {
         "items": [
           {
-            "name": "Fleece fabrics",
-            "quantity": 10,
+            "name": "10 Fleece fabrics",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Cordura polyamide fabrics",
-            "quantity": 10,
+            "name": "10 Cordura polyamide fabrics",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "KEKTAPE duct tapes",
-            "quantity": 5,
+            "name": "5 KEKTAPE duct tapes",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -790,18 +920,33 @@
       "objectives": {
         "items": [
           {
-            "name": "Iskra ration packs",
-            "quantity": 3,
+            "name": "3 Iskra ration packs",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Packs of instant noodles",
-            "quantity": 2,
+            "name": "2 Packs of instant noodles",
+            "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "Cans of beef stew",
-            "quantity": 2,
+            "name": "2 Cans of beef stew",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "3 found in raid Iskra ration packs",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "2 found in raid Packs of instant noodles",
+            "quantity": 1,
+            "foundInRaid": true
+          },
+          {
+            "name": "2 found in raid Cans of beef stew",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -816,13 +961,13 @@
       "objectives": {
         "items": [
           {
-            "name": "Portable defibrillator",
+            "name": "1 Portable defibrillator",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "CMS surgery kits",
-            "quantity": 2,
+            "name": "2 CMS surgery kits",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -837,8 +982,8 @@
       "objectives": {
         "items": [
           {
-            "name": "TerraGroup Labs access keycards",
-            "quantity": 2,
+            "name": "2 TerraGroup Labs access keycards",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
@@ -853,8 +998,8 @@
       "objectives": {
         "items": [
           {
-            "name": "Secure Flash drives",
-            "quantity": 3,
+            "name": "3 Secure Flash drives",
+            "quantity": 1,
             "foundInRaid": true
           }
         ],
