@@ -7,27 +7,27 @@
       "objectives": {
         "items": [
           {
-            "name": "2 Bronze lion figurines",
+            "name": "Bronze lion figurines",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Horse figurines",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Cat figurine",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "2 Horse figurines",
+            "name": "Roler Submariner gold wrist watch",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 Cat figurine",
-            "quantity": 1,
-            "foundInRaid": true
-          },
-          {
-            "name": "1 Roler Submariner gold wrist watch",
-            "quantity": 1,
-            "foundInRaid": true
-          },
-          {
-            "name": "1 Golden egg",
+            "name": "Golden egg",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -43,23 +43,23 @@
       "objectives": {
         "items": [
           {
-            "name": "3 Antique teapots",
+            "name": "Antique teapots",
+            "quantity": 3,
+            "foundInRaid": true
+          },
+          {
+            "name": "Antique vases",
+            "quantity": 2,
+            "foundInRaid": true
+          },
+          {
+            "name": "Axel parrot figurine",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "2 Antique vases",
-            "quantity": 1,
-            "foundInRaid": true
-          },
-          {
-            "name": "1 Axel parrot figurine",
-            "quantity": 1,
-            "foundInRaid": true
-          },
-          {
-            "name": "2 Raven figurines",
-            "quantity": 1,
+            "name": "Raven figurines",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -74,37 +74,37 @@
       "objectives": {
         "items": [
           {
-            "name": "1 M.U.L.E. stimulant injector",
+            "name": "M.U.L.E. stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 Obdolbos cocktail injector",
+            "name": "Obdolbos cocktail injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 Meldonin stimulant injector",
+            "name": "Meldonin stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 AHF1-M stimulant injector",
+            "name": "AHF1-M stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 P22  stimulant injector",
+            "name": "P22  stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 L1  stimulant injector",
+            "name": "L1  stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 3- stimulant injector",
+            "name": "3- stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -326,13 +326,13 @@
       "objectives": {
         "items": [
           {
-            "name": "1 6-STEN-140-M military battery",
+            "name": "6-STEN-140-M military battery",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "5 OFZ 30x165mm shells",
-            "quantity": 1,
+            "name": "OFZ 30x165mm shells",
+            "quantity": 5,
             "foundInRaid": true
           }
         ],
@@ -347,19 +347,14 @@
       "objectives": {
         "items": [
           {
-            "name": "4 Car batteries",
-            "quantity": 1,
+            "name": "Car batteries",
+            "quantity": 4,
             "foundInRaid": true
           },
           {
-            "name": "8 Spark plugs",
-            "quantity": 1,
+            "name": "Spark plugs",
+            "quantity": 8,
             "foundInRaid": true
-          },
-          {
-            "name": "4 batteries",
-            "quantity": 1,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -373,7 +368,7 @@
       "objectives": {
         "items": [
           {
-            "name": "1 Gas analyzer",
+            "name": "Gas analyzer",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -389,8 +384,8 @@
       "objectives": {
         "items": [
           {
-            "name": "2 Gas analyzers",
-            "quantity": 1,
+            "name": "Gas analyzers",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -405,14 +400,9 @@
       "objectives": {
         "items": [
           {
-            "name": "4 Morphine injectors",
-            "quantity": 1,
+            "name": "Morphine injectors",
+            "quantity": 4,
             "foundInRaid": true
-          },
-          {
-            "name": "4 injectors",
-            "quantity": 1,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -426,12 +416,12 @@
       "objectives": {
         "items": [
           {
-            "name": "1 Ophthalmoscope",
+            "name": "Ophthalmoscope",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 LEDX Skin Transilluminator",
+            "name": "LEDX Skin Transilluminator",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -447,39 +437,29 @@
       "objectives": {
         "items": [
           {
-            "name": "3 Portable defibrillators",
-            "quantity": 1,
+            "name": "Portable defibrillators",
+            "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "3 Ophthalmoscopes",
-            "quantity": 1,
+            "name": "Ophthalmoscopes",
+            "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "2 LEDX Skin Transilluminators",
-            "quantity": 1,
+            "name": "LEDX Skin Transilluminators",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "20 Piles of meds",
-            "quantity": 1,
+            "name": "Piles of meds",
+            "quantity": 20,
             "foundInRaid": true
           },
           {
-            "name": "10 Bottles of OLOLO Multivitamins",
-            "quantity": 1,
+            "name": "Bottles of OLOLO Multivitamins",
+            "quantity": 10,
             "foundInRaid": true
-          },
-          {
-            "name": "3 defibrillators",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
-            "name": "10 multivitamins",
-            "quantity": 1,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -493,23 +473,23 @@
       "objectives": {
         "items": [
           {
-            "name": "1 WD-40  or WD-40",
+            "name": "WD-40  or WD-40",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "2 Clin window cleaners",
-            "quantity": 1,
+            "name": "Clin window cleaners",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "2 Corrugated hoses",
-            "quantity": 1,
+            "name": "Corrugated hoses",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "2 Ox bleachs",
-            "quantity": 1,
+            "name": "Ox bleachs",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -524,23 +504,23 @@
       "objectives": {
         "items": [
           {
-            "name": "4 Morphine injectors",
-            "quantity": 1,
+            "name": "Morphine injectors",
+            "quantity": 4,
             "foundInRaid": true
           },
           {
-            "name": "2 Alkaline cleaners for heat exchangers",
-            "quantity": 1,
+            "name": "Alkaline cleaners for heat exchangers",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "2 Corrugated hoses",
-            "quantity": 1,
+            "name": "Corrugated hoses",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "2 5L propane tanks",
-            "quantity": 1,
+            "name": "5L propane tanks",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -555,12 +535,12 @@
       "objectives": {
         "items": [
           {
-            "name": "2 Virtex programmable processors",
-            "quantity": 1,
+            "name": "Virtex programmable processors",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "1 Military COFDM Wireless Signal Transmitter",
+            "name": "Military COFDM Wireless Signal Transmitter",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -576,28 +556,28 @@
       "objectives": {
         "items": [
           {
-            "name": "5 VPX Flash Storage Modules",
-            "quantity": 1,
+            "name": "VPX Flash Storage Modules",
+            "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "5 UHF RFID Readers",
-            "quantity": 1,
+            "name": "UHF RFID Readers",
+            "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "5 Virtex programmable processors",
-            "quantity": 1,
+            "name": "Virtex programmable processors",
+            "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "5 Military COFDM Wireless Signal Transmitters",
-            "quantity": 1,
+            "name": "Military COFDM Wireless Signal Transmitters",
+            "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "4 Military flash drives",
-            "quantity": 1,
+            "name": "Military flash drives",
+            "quantity": 4,
             "foundInRaid": true
           }
         ],
@@ -612,23 +592,23 @@
       "objectives": {
         "items": [
           {
-            "name": "3 PC CPUs",
-            "quantity": 1,
+            "name": "PC CPUs",
+            "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "3 Rechargeable batteries",
-            "quantity": 1,
+            "name": "Rechargeable batteries",
+            "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "3 Printed circuit boards",
-            "quantity": 1,
+            "name": "Printed circuit boards",
+            "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "3 Broken GPhone smartphones",
-            "quantity": 1,
+            "name": "Broken GPhone smartphones",
+            "quantity": 3,
             "foundInRaid": true
           }
         ],
@@ -643,18 +623,18 @@
       "objectives": {
         "items": [
           {
-            "name": "2 Power cords",
-            "quantity": 1,
+            "name": "Power cords",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "4 T-Shaped Plugs",
-            "quantity": 1,
+            "name": "T-Shaped Plugs",
+            "quantity": 4,
             "foundInRaid": true
           },
           {
-            "name": "2 Printed circuit boards",
-            "quantity": 1,
+            "name": "Printed circuit boards",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -669,18 +649,18 @@
       "objectives": {
         "items": [
           {
-            "name": "5 Malboro cigarettes",
-            "quantity": 1,
+            "name": "Malboro cigarettes",
+            "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "5 Strike cigarettes",
-            "quantity": 1,
+            "name": "Strike cigarettes",
+            "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "5 Wilston cigarettes",
-            "quantity": 1,
+            "name": "Wilston cigarettes",
+            "quantity": 5,
             "foundInRaid": true
           }
         ],
@@ -695,13 +675,13 @@
       "objectives": {
         "items": [
           {
-            "name": "3 Graphics cards",
-            "quantity": 1,
+            "name": "Graphics cards",
+            "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "15 CPU fans",
-            "quantity": 1,
+            "name": "CPU fans",
+            "quantity": 15,
             "foundInRaid": true
           }
         ],
@@ -716,13 +696,13 @@
       "objectives": {
         "items": [
           {
-            "name": "5 Bundle of wires",
-            "quantity": 1,
+            "name": "Bundle of wires",
+            "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "5 Capacitors",
-            "quantity": 1,
+            "name": "Capacitors",
+            "quantity": 5,
             "foundInRaid": true
           }
         ],
@@ -737,12 +717,12 @@
       "objectives": {
         "items": [
           {
-            "name": "1 UHF RFID Fixed Reader",
+            "name": "UHF RFID Fixed Reader",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 VPX Flash Storage Module",
+            "name": "VPX Flash Storage Module",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -758,23 +738,23 @@
       "objectives": {
         "items": [
           {
-            "name": "4 found in raid Electronic components",
-            "quantity": 1,
+            "name": "Electronic components",
+            "quantity": 4,
             "foundInRaid": true
           },
           {
-            "name": "4 found in raid Military COFDM Wireless Signal Transmitters",
-            "quantity": 1,
+            "name": "Military COFDM Wireless Signal Transmitters",
+            "quantity": 4,
             "foundInRaid": true
           },
           {
-            "name": "4 found in raid Gas analyzers",
-            "quantity": 1,
+            "name": "Gas analyzers",
+            "quantity": 4,
             "foundInRaid": true
           },
           {
-            "name": "4 found in raid Broken GPhone smartphones",
-            "quantity": 1,
+            "name": "Broken GPhone smartphones",
+            "quantity": 4,
             "foundInRaid": true
           }
         ],
@@ -789,13 +769,13 @@
       "objectives": {
         "items": [
           {
-            "name": "2 Kinda Cowboy hats",
-            "quantity": 1,
+            "name": "Kinda Cowboy hats",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "2 Ushanka ear-flap caps",
-            "quantity": 1,
+            "name": "Ushanka ear-flap caps",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -810,12 +790,12 @@
       "objectives": {
         "items": [
           {
-            "name": "1 Ski hat with holes for eyes",
+            "name": "Ski hat with holes for eyes",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "1 Pilgrim tourist backpack",
+            "name": "Pilgrim tourist backpack",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -831,8 +811,8 @@
       "objectives": {
         "items": [
           {
-            "name": "4 Fuel conditioners",
-            "quantity": 1,
+            "name": "Fuel conditioners",
+            "quantity": 4,
             "foundInRaid": true
           }
         ],
@@ -847,13 +827,13 @@
       "objectives": {
         "items": [
           {
-            "name": "2 WARTECH TV-109 + TV-106 chest rigs",
-            "quantity": 1,
+            "name": "WARTECH TV-109 + TV-106 chest rigs",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "2 BlackRock chest rigs",
-            "quantity": 1,
+            "name": "BlackRock chest rigs",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -868,18 +848,18 @@
       "objectives": {
         "items": [
           {
-            "name": "5 Aramid fabrics",
-            "quantity": 1,
+            "name": "Aramid fabrics",
+            "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "10 Ripstop fabrics",
-            "quantity": 1,
+            "name": "Ripstop fabrics",
+            "quantity": 10,
             "foundInRaid": true
           },
           {
-            "name": "3 Paracords",
-            "quantity": 1,
+            "name": "Paracords",
+            "quantity": 3,
             "foundInRaid": true
           }
         ],
@@ -894,18 +874,18 @@
       "objectives": {
         "items": [
           {
-            "name": "10 Fleece fabrics",
-            "quantity": 1,
+            "name": "Fleece fabrics",
+            "quantity": 10,
             "foundInRaid": true
           },
           {
-            "name": "10 Cordura polyamide fabrics",
-            "quantity": 1,
+            "name": "Cordura polyamide fabrics",
+            "quantity": 10,
             "foundInRaid": true
           },
           {
-            "name": "5 KEKTAPE duct tapes",
-            "quantity": 1,
+            "name": "KEKTAPE duct tapes",
+            "quantity": 5,
             "foundInRaid": true
           }
         ],
@@ -920,33 +900,18 @@
       "objectives": {
         "items": [
           {
-            "name": "3 Iskra ration packs",
-            "quantity": 1,
+            "name": "Iskra ration packs",
+            "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "2 Packs of instant noodles",
-            "quantity": 1,
+            "name": "Packs of instant noodles",
+            "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "2 Cans of beef stew",
-            "quantity": 1,
-            "foundInRaid": true
-          },
-          {
-            "name": "3 found in raid Iskra ration packs",
-            "quantity": 1,
-            "foundInRaid": true
-          },
-          {
-            "name": "2 found in raid Packs of instant noodles",
-            "quantity": 1,
-            "foundInRaid": true
-          },
-          {
-            "name": "2 found in raid Cans of beef stew",
-            "quantity": 1,
+            "name": "Cans of beef stew",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -961,13 +926,13 @@
       "objectives": {
         "items": [
           {
-            "name": "1 Portable defibrillator",
+            "name": "Portable defibrillator",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "2 CMS surgery kits",
-            "quantity": 1,
+            "name": "CMS surgery kits",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -982,8 +947,8 @@
       "objectives": {
         "items": [
           {
-            "name": "2 TerraGroup Labs access keycards",
-            "quantity": 1,
+            "name": "TerraGroup Labs access keycards",
+            "quantity": 2,
             "foundInRaid": true
           }
         ],
@@ -998,8 +963,8 @@
       "objectives": {
         "items": [
           {
-            "name": "3 Secure Flash drives",
-            "quantity": 1,
+            "name": "Secure Flash drives",
+            "quantity": 3,
             "foundInRaid": true
           }
         ],
