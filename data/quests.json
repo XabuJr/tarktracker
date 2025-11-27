@@ -7,22 +7,22 @@
       "objectives": {
         "items": [
           {
-            "name": "Bronze lion figurines",
+            "name": "Bronze lion figurine",
             "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "Horse figurines",
+            "name": "Horse figurine",
             "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "cat figurine",
+            "name": "Cat figurine",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "roler submariner gold wrist watch",
+            "name": "Roler Submariner gold wrist watch",
             "quantity": 1,
             "foundInRaid": true
           },
@@ -135,12 +135,12 @@
             "foundInRaid": true
           },
           {
-            "name": "#fireklean gun lube",
+            "name": "#FireKlean gun lube",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "golden rooster figurine",
+            "name": "Golden rooster figurine",
             "quantity": 1,
             "foundInRaid": true
           },
@@ -250,7 +250,7 @@
             "foundInRaid": true
           },
           {
-            "name": "bakeezy cook book",
+            "name": "BakeEzy cook book",
             "quantity": 1,
             "foundInRaid": true
           },
@@ -326,7 +326,7 @@
       "objectives": {
         "items": [
           {
-            "name": "6-sten-140-m military battery",
+            "name": "6-STEN-140-M military battery",
             "quantity": 1,
             "foundInRaid": true
           },
@@ -352,7 +352,7 @@
             "foundInRaid": true
           },
           {
-            "name": "Spark plugs",
+            "name": "Spark plug",
             "quantity": 8,
             "foundInRaid": true
           }
@@ -416,12 +416,12 @@
       "objectives": {
         "items": [
           {
-            "name": "ophthalmoscope",
+            "name": "Ophthalmoscope",
             "quantity": 1,
             "foundInRaid": true
           },
           {
-            "name": "ledx skin transilluminator",
+            "name": "LEDX Skin Transilluminator",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -442,12 +442,12 @@
             "foundInRaid": true
           },
           {
-            "name": "Ophthalmoscopes",
+            "name": "Ophthalmoscope",
             "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "LEDX Skin Transilluminators",
+            "name": "LEDX Skin Transilluminator",
             "quantity": 2,
             "foundInRaid": true
           },
@@ -540,7 +540,7 @@
             "foundInRaid": true
           },
           {
-            "name": "military cofdm wireless signal transmitter",
+            "name": "Military COFDM Wireless Signal Transmitter",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -556,7 +556,7 @@
       "objectives": {
         "items": [
           {
-            "name": "VPX Flash Storage Modules",
+            "name": "VPX Flash Storage Module",
             "quantity": 5,
             "foundInRaid": true
           },
@@ -571,12 +571,12 @@
             "foundInRaid": true
           },
           {
-            "name": "Military COFDM Wireless Signal Transmitters",
+            "name": "Military COFDM Wireless Signal Transmitter",
             "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "Military flash drives",
+            "name": "Military flash drive",
             "quantity": 4,
             "foundInRaid": true
           }
@@ -602,7 +602,7 @@
             "foundInRaid": true
           },
           {
-            "name": "Printed circuit boards",
+            "name": "Printed circuit board",
             "quantity": 3,
             "foundInRaid": true
           },
@@ -623,17 +623,17 @@
       "objectives": {
         "items": [
           {
-            "name": "Power cords",
+            "name": "Power cord",
             "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "T-Shaped Plugs",
+            "name": "T-Shaped plug",
             "quantity": 4,
             "foundInRaid": true
           },
           {
-            "name": "Printed circuit boards",
+            "name": "Printed circuit board",
             "quantity": 2,
             "foundInRaid": true
           }
@@ -680,7 +680,7 @@
             "foundInRaid": true
           },
           {
-            "name": "CPU fans",
+            "name": "CPU fan",
             "quantity": 15,
             "foundInRaid": true
           }
@@ -696,12 +696,12 @@
       "objectives": {
         "items": [
           {
-            "name": "bundle of wires",
+            "name": "Bundle of wires",
             "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "capacitors",
+            "name": "Capacitors",
             "quantity": 5,
             "foundInRaid": true
           }
@@ -722,7 +722,7 @@
             "foundInRaid": true
           },
           {
-            "name": "vpx flash storage module",
+            "name": "VPX Flash Storage Module",
             "quantity": 1,
             "foundInRaid": true
           }
@@ -743,7 +743,7 @@
             "foundInRaid": true
           },
           {
-            "name": "Military COFDM Wireless Signal Transmitters",
+            "name": "Military COFDM Wireless Signal Transmitter",
             "quantity": 4,
             "foundInRaid": true
           },
@@ -874,17 +874,17 @@
       "objectives": {
         "items": [
           {
-            "name": "Fleece fabrics",
+            "name": "Fleece fabric",
             "quantity": 10,
             "foundInRaid": true
           },
           {
-            "name": "Cordura polyamide fabrics",
+            "name": "Cordura polyamide fabric",
             "quantity": 10,
             "foundInRaid": true
           },
           {
-            "name": "KEKTAPE duct tapes",
+            "name": "KEKTAPE duct tape",
             "quantity": 5,
             "foundInRaid": true
           }
@@ -963,7 +963,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Secure Flash drives",
+            "name": "Secure Flash drive",
             "quantity": 3,
             "foundInRaid": true
           }
