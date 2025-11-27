@@ -30,31 +30,6 @@
             "name": "Golden egg",
             "quantity": 1,
             "foundInRaid": true
-          },
-          {
-            "name": "Bronze lion figurines",
-            "quantity": 2,
-            "foundInRaid": false
-          },
-          {
-            "name": "Horse figurines",
-            "quantity": 2,
-            "foundInRaid": false
-          },
-          {
-            "name": "Cat figurine",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
-            "name": "Roler Submariner gold wrist watch",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
-            "name": "Golden egg",
-            "quantity": 1,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -86,26 +61,6 @@
             "name": "Raven figurines",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "Antique teapots",
-            "quantity": 3,
-            "foundInRaid": false
-          },
-          {
-            "name": "Antique vases",
-            "quantity": 2,
-            "foundInRaid": false
-          },
-          {
-            "name": "Axel parrot figurine",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
-            "name": "Raven figurines",
-            "quantity": 2,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -124,19 +79,9 @@
             "foundInRaid": true
           },
           {
-            "name": "M.U.L.E. stimulant injector",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
             "name": "Obdolbos cocktail injector",
             "quantity": 1,
             "foundInRaid": true
-          },
-          {
-            "name": "Obdolbos cocktail injector",
-            "quantity": 1,
-            "foundInRaid": false
           },
           {
             "name": "Meldonin stimulant injector",
@@ -144,19 +89,9 @@
             "foundInRaid": true
           },
           {
-            "name": "Meldonin stimulant injector",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
             "name": "AHF1-M stimulant injector",
             "quantity": 1,
             "foundInRaid": true
-          },
-          {
-            "name": "AHF1-M stimulant injector",
-            "quantity": 1,
-            "foundInRaid": false
           },
           {
             "name": "P22  stimulant injector",
@@ -164,29 +99,14 @@
             "foundInRaid": true
           },
           {
-            "name": "P22  stimulant injector",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
             "name": "L1  stimulant injector",
-            "quantity": 1,
-            "foundInRaid": true
-          },
-          {
-            "name": "L1  stimulant injector",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
-            "name": "3- stimulant injector",
             "quantity": 1,
             "foundInRaid": true
           },
           {
             "name": "3- stimulant injector",
             "quantity": 1,
-            "foundInRaid": false
+            "foundInRaid": true
           }
         ],
         "currencies": [],
@@ -203,11 +123,6 @@
             "name": "Signature Blend English Tea",
             "quantity": 42,
             "foundInRaid": true
-          },
-          {
-            "name": "Signature Blend English Tea",
-            "quantity": 42,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -303,19 +218,9 @@
             "foundInRaid": true
           },
           {
-            "name": "military battery",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
             "name": "OFZ 30x165mm shells",
             "quantity": 5,
             "foundInRaid": true
-          },
-          {
-            "name": "OFZ shells",
-            "quantity": 5,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -337,16 +242,6 @@
             "name": "Spark plugs",
             "quantity": 8,
             "foundInRaid": true
-          },
-          {
-            "name": "batteries",
-            "quantity": 4,
-            "foundInRaid": false
-          },
-          {
-            "name": "spark plugs",
-            "quantity": 8,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -363,11 +258,6 @@
             "name": "Gas analyzer",
             "quantity": 1,
             "foundInRaid": true
-          },
-          {
-            "name": "Gas analyzer",
-            "quantity": 1,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -384,11 +274,6 @@
             "name": "Gas analyzers",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "Gas analyzers",
-            "quantity": 2,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -405,11 +290,6 @@
             "name": "Morphine injectors",
             "quantity": 4,
             "foundInRaid": true
-          },
-          {
-            "name": "injectors",
-            "quantity": 4,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -431,16 +311,6 @@
             "name": "LEDX Skin Transilluminator",
             "quantity": 1,
             "foundInRaid": true
-          },
-          {
-            "name": "Ophthalmoscope",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
-            "name": "LEDX Skin Transilluminator",
-            "quantity": 1,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -477,31 +347,6 @@
             "name": "Bottles of OLOLO Multivitamins",
             "quantity": 10,
             "foundInRaid": true
-          },
-          {
-            "name": "ophthalmoscopes",
-            "quantity": 3,
-            "foundInRaid": false
-          },
-          {
-            "name": "defibrillators",
-            "quantity": 3,
-            "foundInRaid": false
-          },
-          {
-            "name": "LEDX",
-            "quantity": 2,
-            "foundInRaid": false
-          },
-          {
-            "name": "Piles of meds",
-            "quantity": 20,
-            "foundInRaid": false
-          },
-          {
-            "name": "multivitamins",
-            "quantity": 10,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -520,19 +365,9 @@
             "foundInRaid": true
           },
           {
-            "name": "WD-40  or WD-40",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
             "name": "Clin window cleaners",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "Clin window cleaners",
-            "quantity": 2,
-            "foundInRaid": false
           },
           {
             "name": "Corrugated hoses",
@@ -540,19 +375,9 @@
             "foundInRaid": true
           },
           {
-            "name": "Corrugated hoses",
-            "quantity": 2,
-            "foundInRaid": false
-          },
-          {
             "name": "Ox bleachs",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "Ox bleachs",
-            "quantity": 2,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -571,19 +396,9 @@
             "foundInRaid": true
           },
           {
-            "name": "Morphine injectors",
-            "quantity": 4,
-            "foundInRaid": false
-          },
-          {
             "name": "Alkaline cleaners for heat exchangers",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "Alkaline cleaners for heat exchangers",
-            "quantity": 2,
-            "foundInRaid": false
           },
           {
             "name": "Corrugated hoses",
@@ -591,19 +406,9 @@
             "foundInRaid": true
           },
           {
-            "name": "Corrugated hoses",
-            "quantity": 2,
-            "foundInRaid": false
-          },
-          {
             "name": "5L propane tanks",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "5L propane tanks",
-            "quantity": 2,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -625,16 +430,6 @@
             "name": "Military COFDM Wireless Signal Transmitter",
             "quantity": 1,
             "foundInRaid": true
-          },
-          {
-            "name": "Virtex programmable processors",
-            "quantity": 2,
-            "foundInRaid": false
-          },
-          {
-            "name": "Military COFDM Wireless Signal Transmitter",
-            "quantity": 1,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -671,31 +466,6 @@
             "name": "Military flash drives",
             "quantity": 4,
             "foundInRaid": true
-          },
-          {
-            "name": "VPX Flash Storage Modules",
-            "quantity": 5,
-            "foundInRaid": false
-          },
-          {
-            "name": "UHF RFID Readers",
-            "quantity": 5,
-            "foundInRaid": false
-          },
-          {
-            "name": "Virtex programmable processors",
-            "quantity": 5,
-            "foundInRaid": false
-          },
-          {
-            "name": "Military COFDM Wireless Signal Transmitters",
-            "quantity": 5,
-            "foundInRaid": false
-          },
-          {
-            "name": "Military flash drives",
-            "quantity": 4,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -714,19 +484,9 @@
             "foundInRaid": true
           },
           {
-            "name": "PC CPUs",
-            "quantity": 3,
-            "foundInRaid": false
-          },
-          {
             "name": "Rechargeable batteries",
             "quantity": 3,
             "foundInRaid": true
-          },
-          {
-            "name": "Rechargeable batteries",
-            "quantity": 3,
-            "foundInRaid": false
           },
           {
             "name": "Printed circuit boards",
@@ -734,19 +494,9 @@
             "foundInRaid": true
           },
           {
-            "name": "Printed circuit boards",
-            "quantity": 3,
-            "foundInRaid": false
-          },
-          {
             "name": "Broken GPhone smartphones",
             "quantity": 3,
             "foundInRaid": true
-          },
-          {
-            "name": "Broken GPhone smartphones",
-            "quantity": 3,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -773,21 +523,6 @@
             "name": "Printed circuit boards",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "Power cords",
-            "quantity": 2,
-            "foundInRaid": false
-          },
-          {
-            "name": "T-Shaped Plugs",
-            "quantity": 4,
-            "foundInRaid": false
-          },
-          {
-            "name": "Printed circuit boards",
-            "quantity": 2,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -814,21 +549,6 @@
             "name": "Wilston cigarettes",
             "quantity": 5,
             "foundInRaid": true
-          },
-          {
-            "name": "Malboro cigarettes",
-            "quantity": 5,
-            "foundInRaid": false
-          },
-          {
-            "name": "Strike cigarettes",
-            "quantity": 5,
-            "foundInRaid": false
-          },
-          {
-            "name": "Wilston cigarettes",
-            "quantity": 5,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -850,16 +570,6 @@
             "name": "CPU fans",
             "quantity": 15,
             "foundInRaid": true
-          },
-          {
-            "name": "Graphics cards",
-            "quantity": 3,
-            "foundInRaid": false
-          },
-          {
-            "name": "CPU fans",
-            "quantity": 15,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -881,16 +591,6 @@
             "name": "Capacitors",
             "quantity": 5,
             "foundInRaid": true
-          },
-          {
-            "name": "Bundle of wires",
-            "quantity": 5,
-            "foundInRaid": false
-          },
-          {
-            "name": "Capacitors",
-            "quantity": 5,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -912,16 +612,6 @@
             "name": "VPX Flash Storage Module",
             "quantity": 1,
             "foundInRaid": true
-          },
-          {
-            "name": "UHF RFID Fixed Reader",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
-            "name": "VPX Flash Storage Module",
-            "quantity": 1,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -974,16 +664,6 @@
             "name": "Ushanka ear-flap caps",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "Ushanka ear-flap caps",
-            "quantity": 2,
-            "foundInRaid": false
-          },
-          {
-            "name": "Kinda Cowboy hats",
-            "quantity": 2,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -1002,19 +682,9 @@
             "foundInRaid": true
           },
           {
-            "name": "Ski hat",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
             "name": "Pilgrim tourist backpack",
             "quantity": 1,
             "foundInRaid": true
-          },
-          {
-            "name": "Pilgrim tourist backpack",
-            "quantity": 1,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -1031,11 +701,6 @@
             "name": "Fuel conditioners",
             "quantity": 4,
             "foundInRaid": true
-          },
-          {
-            "name": "Fuel conditioners",
-            "quantity": 4,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -1078,29 +743,14 @@
             "foundInRaid": true
           },
           {
-            "name": "Aramid fabrics",
-            "quantity": 5,
-            "foundInRaid": false
-          },
-          {
             "name": "Ripstop fabrics",
             "quantity": 10,
             "foundInRaid": true
           },
           {
-            "name": "Ripstop fabrics",
-            "quantity": 10,
-            "foundInRaid": false
-          },
-          {
             "name": "Paracords",
             "quantity": 3,
             "foundInRaid": true
-          },
-          {
-            "name": "Paracords",
-            "quantity": 3,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -1119,29 +769,14 @@
             "foundInRaid": true
           },
           {
-            "name": "Fleece fabrics",
-            "quantity": 10,
-            "foundInRaid": false
-          },
-          {
             "name": "Cordura polyamide fabrics",
             "quantity": 10,
             "foundInRaid": true
           },
           {
-            "name": "Cordura polyamide fabrics",
-            "quantity": 10,
-            "foundInRaid": false
-          },
-          {
             "name": "KEKTAPE duct tapes",
             "quantity": 5,
             "foundInRaid": true
-          },
-          {
-            "name": "KEKTAPE duct tapes",
-            "quantity": 5,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -1154,21 +789,6 @@
       "giver": "Unknown",
       "objectives": {
         "items": [
-          {
-            "name": "Iskra ration packs",
-            "quantity": 3,
-            "foundInRaid": true
-          },
-          {
-            "name": "Packs of instant noodles",
-            "quantity": 2,
-            "foundInRaid": true
-          },
-          {
-            "name": "Cans of beef stew",
-            "quantity": 2,
-            "foundInRaid": true
-          },
           {
             "name": "Iskra ration packs",
             "quantity": 3,
@@ -1204,16 +824,6 @@
             "name": "CMS surgery kits",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "Portable defibrillator",
-            "quantity": 1,
-            "foundInRaid": false
-          },
-          {
-            "name": "CMS surgery kits",
-            "quantity": 2,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -1230,11 +840,6 @@
             "name": "TerraGroup Labs access keycards",
             "quantity": 2,
             "foundInRaid": true
-          },
-          {
-            "name": "TerraGroup Labs access keycards",
-            "quantity": 2,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
@@ -1251,11 +856,6 @@
             "name": "Secure Flash drives",
             "quantity": 3,
             "foundInRaid": true
-          },
-          {
-            "name": "Secure Flash drives",
-            "quantity": 3,
-            "foundInRaid": false
           }
         ],
         "currencies": [],
