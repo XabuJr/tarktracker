@@ -1,5 +1,5 @@
 {
-  "version": "2025-11-28T00:00:00.000Z",
+  "version": "2025-11-28T01:00:00.000Z",
   "quests": [
     {
       "name": "Living High is Not a Crime - Part 1",
@@ -43,12 +43,12 @@
       "objectives": {
         "items": [
           {
-            "name": "Antique teapots",
+            "name": "Antique teapot",
             "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "Antique vases",
+            "name": "Antique vase",
             "quantity": 2,
             "foundInRaid": true
           },
@@ -58,7 +58,7 @@
             "foundInRaid": true
           },
           {
-            "name": "Raven figurines",
+            "name": "Raven figurine",
             "quantity": 2,
             "foundInRaid": true
           }
@@ -347,7 +347,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Car batteries",
+            "name": "Car battery",
             "quantity": 4,
             "foundInRaid": true
           },
@@ -384,7 +384,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Gas analyzers",
+            "name": "Gas analyzer",
             "quantity": 2,
             "foundInRaid": true
           }
@@ -400,7 +400,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Morphine injectors",
+            "name": "Morphine injector",
             "quantity": 4,
             "foundInRaid": true
           }
@@ -437,7 +437,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Portable defibrillators",
+            "name": "Portable defibrillator",
             "quantity": 3,
             "foundInRaid": true
           },
@@ -452,12 +452,12 @@
             "foundInRaid": true
           },
           {
-            "name": "Piles of meds",
+            "name": "Pile of meds",
             "quantity": 20,
             "foundInRaid": true
           },
           {
-            "name": "Bottles of OLOLO Multivitamins",
+            "name": "Bottle of OLOLO Multivitamins",
             "quantity": 10,
             "foundInRaid": true
           }
@@ -478,7 +478,7 @@
             "foundInRaid": true
           },
           {
-            "name": "Clin window cleaners",
+            "name": "Clin window cleaner",
             "quantity": 2,
             "foundInRaid": true
           },
@@ -488,7 +488,7 @@
             "foundInRaid": true
           },
           {
-            "name": "Ox bleachs",
+            "name": "Ox bleach",
             "quantity": 2,
             "foundInRaid": true
           }
@@ -504,7 +504,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Morphine injectors",
+            "name": "Morphine injector",
             "quantity": 4,
             "foundInRaid": true
           },
@@ -519,7 +519,7 @@
             "foundInRaid": true
           },
           {
-            "name": "5L propane tanks",
+            "name": "5L propane tank",
             "quantity": 2,
             "foundInRaid": true
           }
@@ -535,7 +535,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Virtex programmable processors",
+            "name": "Virtex programmable processor",
             "quantity": 2,
             "foundInRaid": true
           },
@@ -561,12 +561,12 @@
             "foundInRaid": true
           },
           {
-            "name": "UHF RFID Readers",
+            "name": "UHF RFID Reader",
             "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "Virtex programmable processors",
+            "name": "Virtex programmable processor",
             "quantity": 5,
             "foundInRaid": true
           },
@@ -592,12 +592,12 @@
       "objectives": {
         "items": [
           {
-            "name": "PC CPUs",
+            "name": "PC CPU",
             "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "Rechargeable batteries",
+            "name": "Rechargeable battery",
             "quantity": 3,
             "foundInRaid": true
           },
@@ -607,7 +607,7 @@
             "foundInRaid": true
           },
           {
-            "name": "Broken GPhone smartphones",
+            "name": "Broken GPhone smartphone",
             "quantity": 3,
             "foundInRaid": true
           }
@@ -649,17 +649,17 @@
       "objectives": {
         "items": [
           {
-            "name": "Malboro cigarettes",
+            "name": "Malboro cigarette",
             "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "Strike cigarettes",
+            "name": "Strike cigarette",
             "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "Wilston cigarettes",
+            "name": "Wilston cigarette",
             "quantity": 5,
             "foundInRaid": true
           }
@@ -675,7 +675,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Graphics cards",
+            "name": "Graphics card",
             "quantity": 3,
             "foundInRaid": true
           },
@@ -738,7 +738,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Electronic components",
+            "name": "Electronic component",
             "quantity": 4,
             "foundInRaid": true
           },
@@ -748,12 +748,12 @@
             "foundInRaid": true
           },
           {
-            "name": "Gas analyzers",
+            "name": "Gas analyzer",
             "quantity": 4,
             "foundInRaid": true
           },
           {
-            "name": "Broken GPhone smartphones",
+            "name": "Broken GPhone smartphone",
             "quantity": 4,
             "foundInRaid": true
           }
@@ -769,12 +769,12 @@
       "objectives": {
         "items": [
           {
-            "name": "Kinda Cowboy hats",
+            "name": "Kinda Cowboy hat",
             "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "Ushanka ear-flap caps",
+            "name": "Ushanka ear-flap cap",
             "quantity": 2,
             "foundInRaid": true
           }
@@ -811,7 +811,7 @@
       "objectives": {
         "items": [
           {
-            "name": "Fuel conditioners",
+            "name": "Fuel conditioner",
             "quantity": 4,
             "foundInRaid": true
           }
@@ -827,12 +827,12 @@
       "objectives": {
         "items": [
           {
-            "name": "WARTECH TV-109 + TV-106 chest rigs",
+            "name": "WARTECH TV-109 + TV-106 chest rig",
             "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "BlackRock chest rigs",
+            "name": "BlackRock chest rig",
             "quantity": 2,
             "foundInRaid": true
           }
@@ -848,17 +848,17 @@
       "objectives": {
         "items": [
           {
-            "name": "Aramid fabrics",
+            "name": "Aramid fiber fabric",
             "quantity": 5,
             "foundInRaid": true
           },
           {
-            "name": "Ripstop fabrics",
+            "name": "Ripstop fabric",
             "quantity": 10,
             "foundInRaid": true
           },
           {
-            "name": "Paracords",
+            "name": "Paracord",
             "quantity": 3,
             "foundInRaid": true
           }
@@ -900,17 +900,17 @@
       "objectives": {
         "items": [
           {
-            "name": "Iskra ration packs",
+            "name": "Iskra ration pack",
             "quantity": 3,
             "foundInRaid": true
           },
           {
-            "name": "Packs of instant noodles",
+            "name": "Pack of instant noodles",
             "quantity": 2,
             "foundInRaid": true
           },
           {
-            "name": "Cans of beef stew",
+            "name": "Can of beef stew",
             "quantity": 2,
             "foundInRaid": true
           }
@@ -931,7 +931,7 @@
             "foundInRaid": true
           },
           {
-            "name": "CMS surgery kits",
+            "name": "CMS surgery kit",
             "quantity": 2,
             "foundInRaid": true
           }
@@ -947,7 +947,7 @@
       "objectives": {
         "items": [
           {
-            "name": "TerraGroup Labs access keycards",
+            "name": "TerraGroup Labs access keycard",
             "quantity": 2,
             "foundInRaid": true
           }
