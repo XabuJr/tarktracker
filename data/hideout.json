@@ -1,5 +1,5 @@
 {
-  "version": "2025-11-26",
+  "version": "2025-11-28T00:00:00.000Z",
   "modules": [
     {
       "name": "Air Filtering Unit",
@@ -21,7 +21,7 @@
               {
                 "quantity": 10,
                 "name": "Military corrugated tube",
-                "foundInRaid": false
+                "foundInRaid": true
               }
             ],
             "currencies": [
@@ -104,17 +104,17 @@
               {
                 "quantity": 15,
                 "name": "CPU fan",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 10,
                 "name": "Power supply unit",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 15,
                 "name": "Printed circuit board",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -156,12 +156,12 @@
               {
                 "quantity": 10,
                 "name": "Electric motor",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 10,
                 "name": "Pressure gauge",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 2,
@@ -263,7 +263,7 @@
               {
                 "quantity": 5,
                 "name": "Light bulb",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 3,
@@ -913,7 +913,7 @@
               {
                 "quantity": 3,
                 "name": "KEKTAPE duct tape",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 6,
@@ -1024,7 +1024,7 @@
               {
                 "quantity": 4,
                 "name": "Phase control relay",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -1179,7 +1179,7 @@
               {
                 "quantity": 7,
                 "name": "Capacitors",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 12,
@@ -1230,7 +1230,7 @@
               {
                 "quantity": 1,
                 "name": "Intelligence folder",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 1,
@@ -1245,7 +1245,7 @@
               {
                 "quantity": 1,
                 "name": "Working LCD",
-                "foundInRaid": false
+                "foundInRaid": true
               }
             ],
             "currencies": [],
@@ -1405,7 +1405,7 @@
               {
                 "quantity": 1,
                 "name": "Awl",
-                "foundInRaid": false
+                "foundInRaid": true
               }
             ],
             "currencies": [
@@ -1534,7 +1534,7 @@
               {
                 "quantity": 8,
                 "name": "Tech manual",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 2,
@@ -1715,7 +1715,7 @@
               {
                 "quantity": 1,
                 "name": "Can of white salt",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 1,
@@ -1757,7 +1757,7 @@
               {
                 "quantity": 4,
                 "name": "Wrench",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 4,
@@ -2007,7 +2007,7 @@
               {
                 "quantity": 1,
                 "name": "Construction measuring tape",
-                "foundInRaid": false
+                "foundInRaid": true
               }
             ],
             "currencies": [
@@ -2365,7 +2365,7 @@
               {
                 "quantity": 5,
                 "name": "Pack of nails",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -2407,7 +2407,7 @@
               {
                 "quantity": 7,
                 "name": "Pack of nails",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -2536,7 +2536,7 @@
               {
                 "quantity": 5,
                 "name": "CPU fan",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 1,
@@ -2657,7 +2657,7 @@
               {
                 "quantity": 2,
                 "name": "Electric motor",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 5,
@@ -2891,7 +2891,7 @@
               {
                 "quantity": 5,
                 "name": "KEKTAPE duct tape",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
