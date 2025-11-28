@@ -126,7 +126,7 @@
   "Raven figurines": "assets/images/quest_items/raven_figurines.png",
   "M.U.L.E. stimulant injector": "assets/images/quest_items/mule_stimulant_injector.png",
   "Obdolbos cocktail injector": "assets/images/quest_items/obdolbos_cocktail_injector.png",
-  "Meldonin stimulant injector": "assets/images/quest_items/meldonin_stimulant_injector.png",
+  "Meldonin stimulant injector": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/3/30/Meldonin_Icon.png",
   "AHF1-M stimulant injector": "assets/images/quest_items/ahf1m_stimulant_injector.png",
   "P22  stimulant injector": "assets/images/quest_items/p22_stimulant_injector.png",
   "L1  stimulant injector": "assets/images/quest_items/l1_stimulant_injector.png",
@@ -242,5 +242,9 @@
   "Malboro cigarette": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/4/44/Malboro_Cigarettes_Icon.png",
   "Strike cigarette": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/c/c7/Strikecigarettesimage.png",
   "Ushanka ear-flap cap": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/b/b8/Ushanka_icon.png",
-  "P22 stimulant injector": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/P22_Icon.png"
+  "P22 stimulant injector": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/2e/P22_Icon.png",
+  "BlackRock chest rig": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ac/Blackrock_Icon.png",
+  "Can of beef stew": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/a/ad/Can_of_beef_stew_alt_Icon.png",
+  "Electronic component": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/2/26/ElectronicComponents_icon.png",
+  "WARTECH TV-109 + TV-106 chest rig": "https://static.wikia.nocookie.net/escapefromtarkov_gamepedia/images/5/57/Wartech_gear_rig_icon.png"
 }
