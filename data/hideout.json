@@ -1,5 +1,5 @@
 {
-  "version": "2025-11-28T00:00:00.000Z",
+  "version": "2026-08-30T23:29:18.000Z",
   "modules": [
     {
       "name": "Air Filtering Unit",
@@ -10,18 +10,18 @@
             "items": [
               {
                 "quantity": 5,
-                "name": "Gas mask air filter",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 5,
                 "name": "Military power filter",
                 "foundInRaid": false
               },
               {
+                "quantity": 5,
+                "name": "Gas mask air filter",
+                "foundInRaid": true
+              },
+              {
                 "quantity": 10,
                 "name": "Military corrugated tube",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -30,12 +30,7 @@
                 "currency": "Dollar"
               }
             ],
-            "traders": [
-              {
-                "trader": "Skier",
-                "loyaltyLevel": 3
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Generator",
@@ -60,18 +55,8 @@
           "requirements": {
             "items": [
               {
-                "quantity": 10,
-                "name": "T-Shaped plug",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 2,
-                "name": "VPX Flash Storage Module",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 15,
-                "name": "Power cord",
+                "name": "CPU fan",
                 "foundInRaid": false
               },
               {
@@ -81,8 +66,18 @@
               },
               {
                 "quantity": 15,
-                "name": "CPU fan",
-                "foundInRaid": true
+                "name": "Power cord",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 2,
+                "name": "VPX Flash Storage Module",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 10,
+                "name": "T-Shaped plug",
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -104,17 +99,17 @@
               {
                 "quantity": 15,
                 "name": "CPU fan",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
                 "name": "Power supply unit",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
                 "name": "Printed circuit board",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 10,
@@ -130,6 +125,10 @@
             "currencies": [],
             "traders": [],
             "modules": [
+              {
+                "module": "Bitcoin Farm",
+                "level": 1
+              },
               {
                 "module": "Generator",
                 "level": 3
@@ -156,12 +155,12 @@
               {
                 "quantity": 10,
                 "name": "Electric motor",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
                 "name": "Pressure gauge",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 2,
@@ -172,6 +171,10 @@
             "currencies": [],
             "traders": [],
             "modules": [
+              {
+                "module": "Bitcoin Farm",
+                "level": 2
+              },
               {
                 "module": "Solar Power",
                 "level": 1
@@ -195,9 +198,14 @@
           "requirements": {
             "items": [
               {
-                "quantity": 5,
-                "name": "Metal spare parts",
+                "quantity": 10,
+                "name": "Silicone tube",
                 "foundInRaid": false
+              },
+              {
+                "quantity": 2,
+                "name": "Analog thermometer",
+                "foundInRaid": true
               },
               {
                 "quantity": 2,
@@ -205,13 +213,8 @@
                 "foundInRaid": true
               },
               {
-                "quantity": 5,
-                "name": "Radiator helix",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 10,
-                "name": "Silicone tube",
+                "name": "Corrugated hose",
                 "foundInRaid": false
               },
               {
@@ -220,13 +223,13 @@
                 "foundInRaid": true
               },
               {
-                "quantity": 2,
-                "name": "Analog thermometer",
-                "foundInRaid": true
+                "quantity": 5,
+                "name": "Radiator helix",
+                "foundInRaid": false
               },
               {
-                "quantity": 10,
-                "name": "Corrugated hose",
+                "quantity": 5,
+                "name": "Metal spare parts",
                 "foundInRaid": false
               }
             ],
@@ -257,23 +260,8 @@
             "items": [
               {
                 "quantity": 1,
-                "name": "PAID AntiRoach spray",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 5,
-                "name": "Light bulb",
+                "name": "WI-FI Camera",
                 "foundInRaid": false
-              },
-              {
-                "quantity": 3,
-                "name": "Can of white salt",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "SurvL Survivor Lighter",
-                "foundInRaid": true
               },
               {
                 "quantity": 1,
@@ -282,8 +270,23 @@
               },
               {
                 "quantity": 1,
-                "name": "WI-FI Camera",
-                "foundInRaid": false
+                "name": "SurvL Survivor Lighter",
+                "foundInRaid": true
+              },
+              {
+                "quantity": 3,
+                "name": "Can of white salt",
+                "foundInRaid": true
+              },
+              {
+                "quantity": 5,
+                "name": "Light bulb",
+                "foundInRaid": true
+              },
+              {
+                "quantity": 1,
+                "name": "PAID AntiRoach spray",
+                "foundInRaid": true
               }
             ],
             "currencies": [],
@@ -296,7 +299,7 @@
             ],
             "skills": []
           },
-          "constructionTime": "6 hours"
+          "constructionTime": "1 hour"
         }
       ]
     },
@@ -326,16 +329,15 @@
         {
           "level": 2,
           "requirements": {
-            "items": [
-              {
-                "quantity": 1,
-                "name": "Fleece fabric",
-                "foundInRaid": false
-              }
-            ],
+            "items": [],
             "currencies": [],
             "traders": [],
-            "modules": [],
+            "modules": [
+              {
+                "module": "Defective Wall",
+                "level": 1
+              }
+            ],
             "skills": []
           },
           "constructionTime": "12 hours"
@@ -343,16 +345,15 @@
         {
           "level": 3,
           "requirements": {
-            "items": [
-              {
-                "quantity": 1,
-                "name": "Fleece fabric",
-                "foundInRaid": false
-              }
-            ],
+            "items": [],
             "currencies": [],
             "traders": [],
-            "modules": [],
+            "modules": [
+              {
+                "module": "Defective Wall",
+                "level": 2
+              }
+            ],
             "skills": []
           },
           "constructionTime": "24 hours"
@@ -364,17 +365,17 @@
               {
                 "quantity": 1,
                 "name": "Fierce Blow sledgehammer",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "Fleece fabric",
                 "foundInRaid": false
               }
             ],
             "currencies": [],
             "traders": [],
-            "modules": [],
+            "modules": [
+              {
+                "module": "Defective Wall",
+                "level": 3
+              }
+            ],
             "skills": []
           },
           "constructionTime": "3 hours"
@@ -386,22 +387,22 @@
               {
                 "quantity": 1,
                 "name": "Metal cutting scissors",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Toolset",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "Fleece fabric",
                 "foundInRaid": false
               }
             ],
             "currencies": [],
             "traders": [],
-            "modules": [],
+            "modules": [
+              {
+                "module": "Defective Wall",
+                "level": 4
+              }
+            ],
             "skills": []
           },
           "constructionTime": "3 hours"
@@ -423,12 +424,12 @@
               {
                 "quantity": 1,
                 "name": "Toolset",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Pliers Elite",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
@@ -453,7 +454,12 @@
             ],
             "currencies": [],
             "traders": [],
-            "modules": [],
+            "modules": [
+              {
+                "module": "Defective Wall",
+                "level": 5
+              }
+            ],
             "skills": []
           },
           "constructionTime": "12 hours"
@@ -469,27 +475,7 @@
             "items": [
               {
                 "quantity": 1,
-                "name": "Electric drill",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "Sewing kit",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "Awl",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
                 "name": "Leatherman Multitool",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 15,
-                "name": "Bolts",
                 "foundInRaid": false
               },
               {
@@ -498,9 +484,29 @@
                 "foundInRaid": false
               },
               {
+                "quantity": 1,
+                "name": "Sewing kit",
+                "foundInRaid": true
+              },
+              {
                 "quantity": 8,
                 "name": "Energy-saving lamp",
                 "foundInRaid": false
+              },
+              {
+                "quantity": 15,
+                "name": "Bolts",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "Awl",
+                "foundInRaid": true
+              },
+              {
+                "quantity": 1,
+                "name": "Electric drill",
+                "foundInRaid": true
               }
             ],
             "currencies": [
@@ -535,22 +541,12 @@
             "items": [
               {
                 "quantity": 1,
-                "name": "Electric drill",
+                "name": "Wrench",
                 "foundInRaid": true
               },
               {
-                "quantity": 5,
-                "name": "Duct tape",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 5,
-                "name": "Shustrilo sealing foam",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 8,
-                "name": "Pack of nails",
+                "quantity": 10,
+                "name": "Aramid fiber fabric",
                 "foundInRaid": false
               },
               {
@@ -559,13 +555,23 @@
                 "foundInRaid": false
               },
               {
-                "quantity": 10,
-                "name": "Aramid fiber fabric",
+                "quantity": 8,
+                "name": "Pack of nails",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Shustrilo sealing foam",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Duct tape",
                 "foundInRaid": false
               },
               {
                 "quantity": 1,
-                "name": "Wrench",
+                "name": "Electric drill",
                 "foundInRaid": true
               }
             ],
@@ -585,6 +591,10 @@
               {
                 "module": "Hall of Fame",
                 "level": 1
+              },
+              {
+                "module": "Gear Rack",
+                "level": 1
               }
             ],
             "skills": []
@@ -597,17 +607,17 @@
             "items": [
               {
                 "quantity": 1,
-                "name": "Body armor repair kit",
+                "name": "Ratchet wrench",
                 "foundInRaid": true
               },
               {
-                "quantity": 10,
-                "name": "Cordura polyamide fabric",
-                "foundInRaid": false
+                "quantity": 1,
+                "name": "Set of files \"Master\"",
+                "foundInRaid": true
               },
               {
                 "quantity": 15,
-                "name": "Metal spare parts",
+                "name": "Energy-saving lamp",
                 "foundInRaid": false
               },
               {
@@ -617,17 +627,17 @@
               },
               {
                 "quantity": 15,
-                "name": "Energy-saving lamp",
+                "name": "Metal spare parts",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 10,
+                "name": "Cordura polyamide fabric",
                 "foundInRaid": false
               },
               {
                 "quantity": 1,
-                "name": "Set of files \"Master\"",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "Ratchet wrench",
+                "name": "Body armor repair kit",
                 "foundInRaid": true
               }
             ],
@@ -646,6 +656,10 @@
             "modules": [
               {
                 "module": "Hall of Fame",
+                "level": 2
+              },
+              {
+                "module": "Gear Rack",
                 "level": 2
               }
             ],
@@ -690,11 +704,6 @@
           "requirements": {
             "items": [
               {
-                "quantity": 1,
-                "name": "Bulbex cable cutter",
-                "foundInRaid": true
-              },
-              {
                 "quantity": 10,
                 "name": "Phase control relay",
                 "foundInRaid": false
@@ -702,11 +711,16 @@
               {
                 "quantity": 1,
                 "name": "Electric motor",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
                 "name": "Bundle of wires",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "Bulbex cable cutter",
                 "foundInRaid": false
               }
             ],
@@ -715,26 +729,25 @@
             "modules": [
               {
                 "module": "Security",
-                "level": 2
+                "level": 1
               },
               {
                 "module": "Vents",
-                "level": 2
+                "level": 1
+              },
+              {
+                "module": "Generator",
+                "level": 1
               }
             ],
             "skills": []
           },
-          "constructionTime": "5 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
-              {
-                "quantity": 5,
-                "name": "Power supply unit",
-                "foundInRaid": true
-              },
               {
                 "quantity": 12,
                 "name": "Phase control relay",
@@ -751,18 +764,18 @@
                 "foundInRaid": false
               },
               {
+                "quantity": 5,
+                "name": "Power supply unit",
+                "foundInRaid": true
+              },
+              {
                 "quantity": 10,
                 "name": "Metal spare parts",
                 "foundInRaid": false
               }
             ],
             "currencies": [],
-            "traders": [
-              {
-                "trader": "Mechanic",
-                "loyaltyLevel": 3
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Security",
@@ -771,11 +784,80 @@
               {
                 "module": "Vents",
                 "level": 3
+              },
+              {
+                "module": "Generator",
+                "level": 2
               }
             ],
             "skills": []
           },
           "constructionTime": "16 hours"
+        }
+      ]
+    },
+    {
+      "name": "Gym",
+      "levels": [
+        {
+          "level": 1,
+          "requirements": {
+            "items": [
+              {
+                "quantity": 1,
+                "name": "Toolset",
+                "foundInRaid": true
+              },
+              {
+                "quantity": 1,
+                "name": "Electric drill",
+                "foundInRaid": true
+              },
+              {
+                "quantity": 1,
+                "name": "Metal cutting scissors",
+                "foundInRaid": true
+              },
+              {
+                "quantity": 5,
+                "name": "Screw nuts",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Bolts",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "WD-40 (100ml)",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Insulating tape",
+                "foundInRaid": false
+              }
+            ],
+            "currencies": [],
+            "traders": [],
+            "modules": [
+              {
+                "module": "Defective Wall",
+                "level": 6
+              },
+              {
+                "module": "Illumination",
+                "level": 2
+              },
+              {
+                "module": "Vents",
+                "level": 2
+              }
+            ],
+            "skills": []
+          },
+          "constructionTime": "4 hours"
         }
       ]
     },
@@ -787,23 +869,8 @@
           "requirements": {
             "items": [
               {
-                "quantity": 5,
-                "name": "Insulating tape",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 5,
-                "name": "Pack of nails",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 5,
-                "name": "Light bulb",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 1,
-                "name": "Cat figurine",
+                "name": "Round pliers",
                 "foundInRaid": true
               },
               {
@@ -813,18 +880,37 @@
               },
               {
                 "quantity": 1,
-                "name": "Round pliers",
+                "name": "Cat figurine",
                 "foundInRaid": true
+              },
+              {
+                "quantity": 5,
+                "name": "Light bulb",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Pack of nails",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Insulating tape",
+                "foundInRaid": false
               }
             ],
             "currencies": [],
-            "traders": [
+            "traders": [],
+            "modules": [
               {
-                "trader": "Mechanic",
-                "loyaltyLevel": 2
+                "module": "Defective Wall",
+                "level": 6
+              },
+              {
+                "module": "Illumination",
+                "level": 2
               }
             ],
-            "modules": [],
             "skills": []
           },
           "constructionTime": "12 hours"
@@ -881,7 +967,12 @@
             ],
             "currencies": [],
             "traders": [],
-            "modules": [],
+            "modules": [
+              {
+                "module": "Hall of Fame",
+                "level": 1
+              }
+            ],
             "skills": []
           },
           "constructionTime": "18 hours"
@@ -913,7 +1004,7 @@
               {
                 "quantity": 3,
                 "name": "KEKTAPE duct tape",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 6,
@@ -933,7 +1024,12 @@
             ],
             "currencies": [],
             "traders": [],
-            "modules": [],
+            "modules": [
+              {
+                "module": "Hall of Fame",
+                "level": 2
+              }
+            ],
             "skills": []
           },
           "constructionTime": "24 hours"
@@ -970,14 +1066,14 @@
           "requirements": {
             "items": [
               {
-                "quantity": 5,
-                "name": "Dry fuel",
+                "quantity": 2,
+                "name": "Hunting matches",
                 "foundInRaid": false
               },
               {
-                "quantity": 2,
-                "name": "Hunting matches",
-                "foundInRaid": true
+                "quantity": 5,
+                "name": "Dry fuel",
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
@@ -996,21 +1092,25 @@
               {
                 "module": "Vents",
                 "level": 1
+              },
+              {
+                "module": "Heating",
+                "level": 1
               }
             ],
-            "skills": []
+            "skills": [
+              {
+                "skill": "Endurance",
+                "level": 1
+              }
+            ]
           },
-          "constructionTime": "2 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
-              {
-                "quantity": 2,
-                "name": "Military corrugated tube",
-                "foundInRaid": true
-              },
               {
                 "quantity": 10,
                 "name": "Radiator helix",
@@ -1024,7 +1124,12 @@
               {
                 "quantity": 4,
                 "name": "Phase control relay",
-                "foundInRaid": false
+                "foundInRaid": true
+              },
+              {
+                "quantity": 2,
+                "name": "Military corrugated tube",
+                "foundInRaid": true
               }
             ],
             "currencies": [],
@@ -1042,76 +1147,15 @@
               {
                 "module": "Workbench",
                 "level": 2
+              },
+              {
+                "module": "Heating",
+                "level": 2
               }
             ],
             "skills": []
           },
           "constructionTime": "8 hours"
-        }
-      ]
-    },
-    {
-      "name": "Gym",
-      "levels": [
-        {
-          "level": 1,
-          "requirements": {
-            "items": [
-              {
-                "quantity": 5,
-                "name": "Insulating tape",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 1,
-                "name": "Metal cutting scissors",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "WD-40 (100ml)",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 1,
-                "name": "Toolset",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 5,
-                "name": "Screw nuts",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 1,
-                "name": "Electric drill",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 5,
-                "name": "Bolts",
-                "foundInRaid": false
-              }
-            ],
-            "currencies": [],
-            "traders": [],
-            "modules": [
-              {
-                "module": "Defective Wall",
-                "level": 6
-              },
-              {
-                "module": "Illumination",
-                "level": 2
-              },
-              {
-                "module": "Vents",
-                "level": 2
-              }
-            ],
-            "skills": []
-          },
-          "constructionTime": "4 hours"
         }
       ]
     },
@@ -1161,6 +1205,10 @@
               {
                 "module": "Generator",
                 "level": 1
+              },
+              {
+                "module": "Illumination",
+                "level": 1
               }
             ],
             "skills": []
@@ -1172,18 +1220,18 @@
           "requirements": {
             "items": [
               {
-                "quantity": 12,
-                "name": "Energy-saving lamp",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 7,
                 "name": "Capacitors",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 12,
                 "name": "Bundle of wires",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 12,
+                "name": "Energy-saving lamp",
                 "foundInRaid": false
               }
             ],
@@ -1193,12 +1241,7 @@
                 "currency": "Rouble"
               }
             ],
-            "traders": [
-              {
-                "trader": "Mechanic",
-                "loyaltyLevel": 2
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Generator",
@@ -1207,6 +1250,10 @@
               {
                 "module": "Workbench",
                 "level": 1
+              },
+              {
+                "module": "Illumination",
+                "level": 2
               }
             ],
             "skills": []
@@ -1224,13 +1271,8 @@
             "items": [
               {
                 "quantity": 1,
-                "name": "Power cord",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 1,
                 "name": "Intelligence folder",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
@@ -1245,7 +1287,12 @@
               {
                 "quantity": 1,
                 "name": "Working LCD",
-                "foundInRaid": true
+                "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "Power cord",
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -1253,7 +1300,7 @@
             "modules": [
               {
                 "module": "Security",
-                "level": 2
+                "level": 1
               },
               {
                 "module": "Vents",
@@ -1279,7 +1326,7 @@
               {
                 "quantity": 3,
                 "name": "Intelligence folder",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 3,
@@ -1298,48 +1345,42 @@
               }
             ],
             "currencies": [],
-            "traders": [
-              {
-                "trader": "Mechanic",
-                "loyaltyLevel": 2
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Security",
-                "level": 3
+                "level": 2
               },
               {
                 "module": "Medstation",
-                "level": 3
+                "level": 2
               },
               {
                 "module": "Nutrition Unit",
-                "level": 3
+                "level": 2
+              },
+              {
+                "module": "Intelligence Center",
+                "level": 1
               }
             ],
-            "skills": []
+            "skills": [
+              {
+                "skill": "Attention",
+                "level": 3
+              }
+            ]
           },
-          "constructionTime": "6 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
               {
-                "quantity": 8,
-                "name": "Military cable",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 2,
                 "name": "Military COFDM Wireless Signal Transmitter",
                 "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "Far-forward GPS Signal Amplifier Unit",
-                "foundInRaid": false
               },
               {
                 "quantity": 2,
@@ -1352,18 +1393,23 @@
                 "foundInRaid": false
               },
               {
+                "quantity": 8,
+                "name": "Military cable",
+                "foundInRaid": false
+              },
+              {
                 "quantity": 2,
                 "name": "Secure magnetic tape cassette",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "Far-forward GPS Signal Amplifier Unit",
                 "foundInRaid": false
               }
             ],
             "currencies": [],
-            "traders": [
-              {
-                "trader": "Prapor",
-                "loyaltyLevel": 3
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Workbench",
@@ -1372,6 +1418,10 @@
               {
                 "module": "Generator",
                 "level": 3
+              },
+              {
+                "module": "Intelligence Center",
+                "level": 2
               }
             ],
             "skills": []
@@ -1405,7 +1455,7 @@
               {
                 "quantity": 1,
                 "name": "Awl",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -1425,11 +1475,6 @@
           "requirements": {
             "items": [
               {
-                "quantity": 3,
-                "name": "KEKTAPE duct tape",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 6,
                 "name": "Corrugated hose",
                 "foundInRaid": false
@@ -1442,12 +1487,17 @@
               {
                 "quantity": 1,
                 "name": "Electric drill",
-                "foundInRaid": true
+                "foundInRaid": false
+              },
+              {
+                "quantity": 3,
+                "name": "KEKTAPE duct tape",
+                "foundInRaid": false
               },
               {
                 "quantity": 2,
                 "name": "Sewing kit",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -1460,21 +1510,20 @@
               {
                 "module": "Vents",
                 "level": 1
+              },
+              {
+                "module": "Lavatory",
+                "level": 1
               }
             ],
             "skills": []
           },
-          "constructionTime": "3 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
-              {
-                "quantity": 6,
-                "name": "Xenomorph sealing foam",
-                "foundInRaid": false
-              },
               {
                 "quantity": 10,
                 "name": "Corrugated hose",
@@ -1489,6 +1538,11 @@
                 "quantity": 1,
                 "name": "Toolset",
                 "foundInRaid": true
+              },
+              {
+                "quantity": 6,
+                "name": "Xenomorph sealing foam",
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -1500,6 +1554,10 @@
               },
               {
                 "module": "Water Collector",
+                "level": 2
+              },
+              {
+                "module": "Lavatory",
                 "level": 2
               }
             ],
@@ -1518,22 +1576,7 @@
             "items": [
               {
                 "quantity": 1,
-                "name": "BakeEzy cook book",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 5,
-                "name": "Slim diary",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 5,
-                "name": "Diary",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 8,
-                "name": "Tech manual",
+                "name": "Horse figurine",
                 "foundInRaid": true
               },
               {
@@ -1542,8 +1585,23 @@
                 "foundInRaid": true
               },
               {
+                "quantity": 8,
+                "name": "Tech manual",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Diary",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Slim diary",
+                "foundInRaid": false
+              },
+              {
                 "quantity": 1,
-                "name": "Horse figurine",
+                "name": "BakeEzy cook book",
                 "foundInRaid": true
               }
             ],
@@ -1560,7 +1618,12 @@
                 "level": 3
               }
             ],
-            "skills": []
+            "skills": [
+              {
+                "skill": "Hideout Management",
+                "level": 5
+              }
+            ]
           },
           "constructionTime": "54 hours"
         }
@@ -1611,23 +1674,23 @@
           "requirements": {
             "items": [
               {
+                "quantity": 2,
+                "name": "Medical bloodset",
+                "foundInRaid": false
+              },
+              {
                 "quantity": 6,
                 "name": "Bottle of saline solution",
                 "foundInRaid": false
               },
               {
-                "quantity": 3,
-                "name": "Medical tools",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 2,
-                "name": "Medical bloodset",
-                "foundInRaid": true
-              },
-              {
                 "quantity": 10,
                 "name": "Esmarch tourniquet",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 3,
+                "name": "Medical tools",
                 "foundInRaid": false
               }
             ],
@@ -1637,31 +1700,30 @@
                 "currency": "Rouble"
               }
             ],
-            "traders": [
-              {
-                "trader": "Therapist",
-                "loyaltyLevel": 2
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Generator",
                 "level": 1
+              },
+              {
+                "module": "Medstation",
+                "level": 1
               }
             ],
-            "skills": []
+            "skills": [
+              {
+                "skill": "Health",
+                "level": 2
+              }
+            ]
           },
-          "constructionTime": "3 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
-              {
-                "quantity": 1,
-                "name": "Ophthalmoscope",
-                "foundInRaid": true
-              },
               {
                 "quantity": 10,
                 "name": "Bottle of saline solution",
@@ -1671,6 +1733,11 @@
                 "quantity": 1,
                 "name": "LEDX Skin Transilluminator",
                 "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "Ophthalmoscope",
+                "foundInRaid": true
               }
             ],
             "currencies": [
@@ -1679,16 +1746,7 @@
                 "currency": "Rouble"
               }
             ],
-            "traders": [
-              {
-                "trader": "Therapist",
-                "loyaltyLevel": 3
-              },
-              {
-                "trader": "Skier",
-                "loyaltyLevel": 2
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Generator",
@@ -1697,9 +1755,18 @@
               {
                 "module": "Lavatory",
                 "level": 2
+              },
+              {
+                "module": "Medstation",
+                "level": 2
               }
             ],
-            "skills": []
+            "skills": [
+              {
+                "skill": "Vitality",
+                "level": 3
+              }
+            ]
           },
           "constructionTime": "12 hours"
         }
@@ -1713,9 +1780,9 @@
           "requirements": {
             "items": [
               {
-                "quantity": 1,
-                "name": "Can of white salt",
-                "foundInRaid": true
+                "quantity": 2,
+                "name": "Phase control relay",
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
@@ -1723,8 +1790,8 @@
                 "foundInRaid": false
               },
               {
-                "quantity": 2,
-                "name": "Phase control relay",
+                "quantity": 1,
+                "name": "Can of white salt",
                 "foundInRaid": false
               }
             ],
@@ -1750,18 +1817,18 @@
           "requirements": {
             "items": [
               {
-                "quantity": 2,
-                "name": "Alkaline cleaner for heat exchangers",
-                "foundInRaid": true
-              },
-              {
                 "quantity": 4,
                 "name": "Wrench",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 4,
                 "name": "Corrugated hose",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 2,
+                "name": "Alkaline cleaner for heat exchangers",
                 "foundInRaid": false
               },
               {
@@ -1776,11 +1843,15 @@
               {
                 "module": "Lavatory",
                 "level": 2
+              },
+              {
+                "module": "Nutrition Unit",
+                "level": 1
               }
             ],
             "skills": []
           },
-          "constructionTime": "4 hours"
+          "constructionTime": "Instant"
         },
         {
           "level": 3,
@@ -1816,14 +1887,23 @@
               },
               {
                 "module": "Lavatory",
-                "level": 3
+                "level": 2
               },
               {
                 "module": "Stash",
                 "level": 2
+              },
+              {
+                "module": "Nutrition Unit",
+                "level": 2
               }
             ],
-            "skills": []
+            "skills": [
+              {
+                "skill": "Metabolism",
+                "level": 3
+              }
+            ]
           },
           "constructionTime": "14 hours"
         }
@@ -1838,12 +1918,12 @@
             "items": [
               {
                 "quantity": 1,
-                "name": "Classic matches",
+                "name": "Duct tape",
                 "foundInRaid": false
               },
               {
                 "quantity": 1,
-                "name": "Duct tape",
+                "name": "Classic matches",
                 "foundInRaid": false
               }
             ],
@@ -1870,13 +1950,13 @@
             "items": [
               {
                 "quantity": 1,
-                "name": "Magnet",
-                "foundInRaid": true
+                "name": "DVD drive",
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
-                "name": "DVD drive",
-                "foundInRaid": true
+                "name": "Magnet",
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
@@ -1895,24 +1975,23 @@
               {
                 "module": "Generator",
                 "level": 1
+              },
+              {
+                "module": "Rest Space",
+                "level": 1
               }
             ],
             "skills": []
           },
-          "constructionTime": "2 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
               {
-                "quantity": 4,
-                "name": "GreenBat lithium battery",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 10,
-                "name": "Bundle of wires",
+                "quantity": 5,
+                "name": "Power cord",
                 "foundInRaid": false
               },
               {
@@ -1921,22 +2000,27 @@
                 "foundInRaid": false
               },
               {
-                "quantity": 5,
-                "name": "Power cord",
+                "quantity": 10,
+                "name": "Bundle of wires",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 4,
+                "name": "GreenBat lithium battery",
                 "foundInRaid": false
               }
             ],
             "currencies": [],
-            "traders": [
+            "traders": [],
+            "modules": [
               {
-                "trader": "Skier",
-                "loyaltyLevel": 3
+                "module": "Rest Space",
+                "level": 2
               }
             ],
-            "modules": [],
             "skills": []
           },
-          "constructionTime": "10 hours"
+          "constructionTime": "2 hours"
         }
       ]
     },
@@ -1948,28 +2032,8 @@
           "requirements": {
             "items": [
               {
-                "quantity": 1,
-                "name": "Golden rooster figurine",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "Lucky Scav Junk box",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 3,
-                "name": "Bottle of Fierce Hatchling moonshine",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 4,
-                "name": "Roler Submariner gold wrist watch",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 8,
-                "name": "Golden neck chain",
+                "name": "Bronze lion figurine",
                 "foundInRaid": true
               },
               {
@@ -1978,8 +2042,28 @@
                 "foundInRaid": true
               },
               {
+                "quantity": 8,
+                "name": "Golden neck chain",
+                "foundInRaid": true
+              },
+              {
+                "quantity": 4,
+                "name": "Roler Submariner gold wrist watch",
+                "foundInRaid": true
+              },
+              {
                 "quantity": 3,
-                "name": "Bronze lion figurine",
+                "name": "Bottle of Fierce Hatchling moonshine",
+                "foundInRaid": true
+              },
+              {
+                "quantity": 1,
+                "name": "Lucky Scav Junk box",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "Golden rooster figurine",
                 "foundInRaid": true
               }
             ],
@@ -2007,7 +2091,7 @@
               {
                 "quantity": 1,
                 "name": "Construction measuring tape",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -2027,14 +2111,14 @@
           "requirements": {
             "items": [
               {
-                "quantity": 2,
-                "name": "WD-40 (100ml)",
+                "quantity": 1,
+                "name": "Pliers Elite",
                 "foundInRaid": false
               },
               {
-                "quantity": 1,
-                "name": "Pliers Elite",
-                "foundInRaid": true
+                "quantity": 2,
+                "name": "WD-40 (100ml)",
+                "foundInRaid": false
               },
               {
                 "quantity": 2,
@@ -2053,21 +2137,25 @@
               {
                 "module": "Illumination",
                 "level": 1
+              },
+              {
+                "module": "Security",
+                "level": 1
               }
             ],
-            "skills": []
+            "skills": [
+              {
+                "skill": "Endurance",
+                "level": 2
+              }
+            ]
           },
-          "constructionTime": "3 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
-              {
-                "quantity": 8,
-                "name": "NIXXOR lens",
-                "foundInRaid": false
-              },
               {
                 "quantity": 2,
                 "name": "Working LCD",
@@ -2079,22 +2167,26 @@
                 "foundInRaid": false
               },
               {
+                "quantity": 8,
+                "name": "NIXXOR lens",
+                "foundInRaid": false
+              },
+              {
                 "quantity": 1,
                 "name": "SSD drive",
                 "foundInRaid": true
               }
             ],
             "currencies": [],
-            "traders": [
-              {
-                "trader": "Mechanic",
-                "loyaltyLevel": 2
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Illumination",
                 "level": 3
+              },
+              {
+                "module": "Security",
+                "level": 2
               }
             ],
             "skills": []
@@ -2112,7 +2204,7 @@
             "items": [
               {
                 "quantity": 1,
-                "name": "Metal spare parts",
+                "name": "Screw nuts",
                 "foundInRaid": false
               },
               {
@@ -2122,7 +2214,7 @@
               },
               {
                 "quantity": 1,
-                "name": "Screw nuts",
+                "name": "Metal spare parts",
                 "foundInRaid": false
               }
             ],
@@ -2141,40 +2233,15 @@
             ],
             "skills": []
           },
-          "constructionTime": "1 Hour"
+          "constructionTime": "1 hour"
         },
         {
           "level": 2,
           "requirements": {
             "items": [
               {
-                "quantity": 3,
-                "name": "Electric motor",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "Construction measuring tape",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 3,
-                "name": "Tube of Poxeram cold welding",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 1,
                 "name": "Toolset",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 3,
-                "name": "Pack of screws",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 1,
-                "name": "Electric drill",
                 "foundInRaid": true
               },
               {
@@ -2183,9 +2250,9 @@
                 "foundInRaid": false
               },
               {
-                "quantity": 3,
-                "name": "WI-FI Camera",
-                "foundInRaid": false
+                "quantity": 1,
+                "name": "Construction measuring tape",
+                "foundInRaid": true
               },
               {
                 "quantity": 6,
@@ -2193,9 +2260,34 @@
                 "foundInRaid": false
               },
               {
+                "quantity": 3,
+                "name": "Pack of screws",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 3,
+                "name": "Tube of Poxeram cold welding",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 3,
+                "name": "Electric motor",
+                "foundInRaid": true
+              },
+              {
                 "quantity": 6,
                 "name": "Energy-saving lamp",
                 "foundInRaid": false
+              },
+              {
+                "quantity": 3,
+                "name": "WI-FI Camera",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "Electric drill",
+                "foundInRaid": true
               }
             ],
             "currencies": [],
@@ -2208,6 +2300,10 @@
               {
                 "module": "Workbench",
                 "level": 2
+              },
+              {
+                "module": "Shooting Range",
+                "level": 1
               }
             ],
             "skills": []
@@ -2224,13 +2320,13 @@
                 "foundInRaid": true
               },
               {
-                "quantity": 5,
-                "name": "Printed circuit board",
+                "quantity": 10,
+                "name": "Bundle of wires",
                 "foundInRaid": false
               },
               {
-                "quantity": 10,
-                "name": "Bundle of wires",
+                "quantity": 5,
+                "name": "Printed circuit board",
                 "foundInRaid": false
               },
               {
@@ -2266,7 +2362,12 @@
             ],
             "currencies": [],
             "traders": [],
-            "modules": [],
+            "modules": [
+              {
+                "module": "Shooting Range",
+                "level": 2
+              }
+            ],
             "skills": []
           },
           "constructionTime": "24 hours"
@@ -2281,13 +2382,18 @@
           "requirements": {
             "items": [
               {
+                "quantity": 10,
+                "name": "Military cable",
+                "foundInRaid": false
+              },
+              {
                 "quantity": 6,
                 "name": "Phased array element",
                 "foundInRaid": false
               },
               {
-                "quantity": 1,
-                "name": "Advanced current converter",
+                "quantity": 10,
+                "name": "Military power filter",
                 "foundInRaid": false
               },
               {
@@ -2296,13 +2402,8 @@
                 "foundInRaid": true
               },
               {
-                "quantity": 10,
-                "name": "Military cable",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 10,
-                "name": "Military power filter",
+                "quantity": 1,
+                "name": "Advanced current converter",
                 "foundInRaid": false
               }
             ],
@@ -2312,12 +2413,7 @@
                 "currency": "Euro"
               }
             ],
-            "traders": [
-              {
-                "trader": "Peacekeeper",
-                "loyaltyLevel": 4
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Generator",
@@ -2346,30 +2442,30 @@
             "modules": [],
             "skills": []
           },
-          "constructionTime": "N/A"
+          "constructionTime": "Instant"
         },
         {
           "level": 2,
           "requirements": {
             "items": [
               {
-                "quantity": 4,
-                "name": "WD-40 (100ml)",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 1,
                 "name": "Hand drill",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 5,
-                "name": "Pack of nails",
                 "foundInRaid": false
               },
               {
                 "quantity": 10,
                 "name": "Pack of screws",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 4,
+                "name": "WD-40 (100ml)",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Pack of nails",
                 "foundInRaid": false
               }
             ],
@@ -2384,11 +2480,15 @@
               {
                 "module": "Vents",
                 "level": 1
+              },
+              {
+                "module": "Stash",
+                "level": 1
               }
             ],
             "skills": []
           },
-          "constructionTime": "24 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
@@ -2397,7 +2497,7 @@
               {
                 "quantity": 2,
                 "name": "Electric drill",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
@@ -2416,16 +2516,7 @@
                 "currency": "Rouble"
               }
             ],
-            "traders": [
-              {
-                "trader": "Prapor",
-                "loyaltyLevel": 3
-              },
-              {
-                "trader": "Ragman",
-                "loyaltyLevel": 3
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Vents",
@@ -2434,11 +2525,15 @@
               {
                 "module": "Heating",
                 "level": 2
+              },
+              {
+                "module": "Stash",
+                "level": 2
               }
             ],
             "skills": []
           },
-          "constructionTime": "48 hours"
+          "constructionTime": "12 hours"
         },
         {
           "level": 4,
@@ -2446,12 +2541,12 @@
             "items": [
               {
                 "quantity": 10,
-                "name": "Screw nuts",
+                "name": "Bolts",
                 "foundInRaid": false
               },
               {
                 "quantity": 10,
-                "name": "Bolts",
+                "name": "Screw nuts",
                 "foundInRaid": false
               },
               {
@@ -2471,16 +2566,7 @@
                 "currency": "Euro"
               }
             ],
-            "traders": [
-              {
-                "trader": "Peacekeeper",
-                "loyaltyLevel": 4
-              },
-              {
-                "trader": "Ragman",
-                "loyaltyLevel": 4
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Generator",
@@ -2492,6 +2578,10 @@
               },
               {
                 "module": "Heating",
+                "level": 3
+              },
+              {
+                "module": "Stash",
                 "level": 3
               },
               {
@@ -2529,51 +2619,46 @@
           "requirements": {
             "items": [
               {
-                "quantity": 5,
-                "name": "Metal spare parts",
+                "quantity": 1,
+                "name": "Electric motor",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "Car battery",
                 "foundInRaid": false
               },
               {
                 "quantity": 5,
                 "name": "CPU fan",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
-                "quantity": 1,
-                "name": "Car battery",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 1,
-                "name": "Electric motor",
-                "foundInRaid": true
+                "quantity": 5,
+                "name": "Metal spare parts",
+                "foundInRaid": false
               }
             ],
             "currencies": [],
             "traders": [],
-            "modules": [],
+            "modules": [
+              {
+                "module": "Vents",
+                "level": 1
+              }
+            ],
             "skills": []
           },
-          "constructionTime": "3 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
               {
-                "quantity": 5,
-                "name": "Printed circuit board",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 4,
                 "name": "Electric motor",
                 "foundInRaid": true
-              },
-              {
-                "quantity": 10,
-                "name": "Metal spare parts",
-                "foundInRaid": false
               },
               {
                 "quantity": 14,
@@ -2581,9 +2666,19 @@
                 "foundInRaid": false
               },
               {
+                "quantity": 5,
+                "name": "Printed circuit board",
+                "foundInRaid": false
+              },
+              {
                 "quantity": 4,
                 "name": "Car battery",
                 "foundInRaid": true
+              },
+              {
+                "quantity": 10,
+                "name": "Metal spare parts",
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -2591,10 +2686,19 @@
             "modules": [
               {
                 "module": "Generator",
+                "level": 1
+              },
+              {
+                "module": "Vents",
                 "level": 2
               }
             ],
-            "skills": []
+            "skills": [
+              {
+                "skill": "Strength",
+                "level": 2
+              }
+            ]
           },
           "constructionTime": "10 hours"
         }
@@ -2608,13 +2712,8 @@
           "requirements": {
             "items": [
               {
-                "quantity": 3,
-                "name": "Duct tape",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 5,
-                "name": "Screw nuts",
+                "quantity": 4,
+                "name": "Corrugated hose",
                 "foundInRaid": false
               },
               {
@@ -2623,32 +2722,27 @@
                 "foundInRaid": false
               },
               {
-                "quantity": 4,
-                "name": "Corrugated hose",
+                "quantity": 5,
+                "name": "Screw nuts",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 3,
+                "name": "Duct tape",
                 "foundInRaid": false
               }
             ],
             "currencies": [],
             "traders": [],
-            "modules": [
-              {
-                "module": "Security",
-                "level": 1
-              }
-            ],
+            "modules": [],
             "skills": []
           },
-          "constructionTime": "2 hours"
+          "constructionTime": "Instant"
         },
         {
           "level": 2,
           "requirements": {
             "items": [
-              {
-                "quantity": 2,
-                "name": "Toolset",
-                "foundInRaid": true
-              },
               {
                 "quantity": 6,
                 "name": "Corrugated hose",
@@ -2657,7 +2751,12 @@
               {
                 "quantity": 2,
                 "name": "Electric motor",
-                "foundInRaid": true
+                "foundInRaid": false
+              },
+              {
+                "quantity": 2,
+                "name": "Toolset",
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
@@ -2666,31 +2765,30 @@
               }
             ],
             "currencies": [],
-            "traders": [
-              {
-                "trader": "Jaeger",
-                "loyaltyLevel": 2
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Workbench",
-                "level": 2
+                "level": 1
+              },
+              {
+                "module": "Water Collector",
+                "level": 1
               }
             ],
-            "skills": []
+            "skills": [
+              {
+                "skill": "Attention",
+                "level": 3
+              }
+            ]
           },
-          "constructionTime": "8 hours"
+          "constructionTime": "2 hours"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
-              {
-                "quantity": 1,
-                "name": "Ratchet wrench",
-                "foundInRaid": true
-              },
               {
                 "quantity": 2,
                 "name": "Pliers Elite",
@@ -2700,6 +2798,11 @@
                 "quantity": 10,
                 "name": "Shustrilo sealing foam",
                 "foundInRaid": false
+              },
+              {
+                "quantity": 1,
+                "name": "Ratchet wrench",
+                "foundInRaid": true
               }
             ],
             "currencies": [
@@ -2708,20 +2811,19 @@
                 "currency": "Rouble"
               }
             ],
-            "traders": [
-              {
-                "trader": "Jaeger",
-                "loyaltyLevel": 3
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Generator",
                 "level": 3
               },
               {
+                "module": "Water Collector",
+                "level": 2
+              },
+              {
                 "module": "Heating",
-                "level": 3
+                "level": 2
               }
             ],
             "skills": []
@@ -2738,29 +2840,9 @@
           "requirements": {
             "items": [
               {
-                "quantity": 5,
-                "name": "Pack of nails",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 5,
-                "name": "Energy-saving lamp",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 5,
-                "name": "Insulating tape",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 1,
                 "name": "Hand drill",
                 "foundInRaid": true
-              },
-              {
-                "quantity": 15,
-                "name": "Bolts",
-                "foundInRaid": false
               },
               {
                 "quantity": 1,
@@ -2769,7 +2851,27 @@
               },
               {
                 "quantity": 5,
+                "name": "Energy-saving lamp",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
                 "name": "Xenomorph sealing foam",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 15,
+                "name": "Bolts",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Insulating tape",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 5,
+                "name": "Pack of nails",
                 "foundInRaid": false
               }
             ],
@@ -2799,34 +2901,14 @@
           "requirements": {
             "items": [
               {
-                "quantity": 10,
-                "name": "Metal spare parts",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 10,
-                "name": "Pack of screws",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 1,
                 "name": "Electric drill",
                 "foundInRaid": true
               },
               {
-                "quantity": 10,
-                "name": "Bundle of wires",
-                "foundInRaid": false
-              },
-              {
                 "quantity": 1,
                 "name": "Set of files \"Master\"",
                 "foundInRaid": true
-              },
-              {
-                "quantity": 3,
-                "name": "Tube of Poxeram cold welding",
-                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -2835,22 +2917,37 @@
               },
               {
                 "quantity": 10,
+                "name": "Pack of screws",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 10,
                 "name": "Duct tape",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 10,
+                "name": "Bundle of wires",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 10,
+                "name": "Metal spare parts",
                 "foundInRaid": false
               },
               {
                 "quantity": 5,
                 "name": "Weapon parts",
                 "foundInRaid": false
+              },
+              {
+                "quantity": 3,
+                "name": "Tube of Poxeram cold welding",
+                "foundInRaid": false
               }
             ],
             "currencies": [],
-            "traders": [
-              {
-                "trader": "Mechanic",
-                "loyaltyLevel": 3
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Shooting Range",
@@ -2863,6 +2960,10 @@
               {
                 "module": "Stash",
                 "level": 3
+              },
+              {
+                "module": "Weapon Rack",
+                "level": 1
               }
             ],
             "skills": []
@@ -2891,7 +2992,7 @@
               {
                 "quantity": 5,
                 "name": "KEKTAPE duct tape",
-                "foundInRaid": false
+                "foundInRaid": true
               },
               {
                 "quantity": 15,
@@ -2915,12 +3016,7 @@
               }
             ],
             "currencies": [],
-            "traders": [
-              {
-                "trader": "Mechanic",
-                "loyaltyLevel": 4
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Shooting Range",
@@ -2929,6 +3025,10 @@
               {
                 "module": "Workbench",
                 "level": 3
+              },
+              {
+                "module": "Weapon Rack",
+                "level": 2
               }
             ],
             "skills": []
@@ -2972,57 +3072,51 @@
           "requirements": {
             "items": [
               {
+                "quantity": 3,
+                "name": "Toolset",
+                "foundInRaid": false
+              },
+              {
+                "quantity": 2,
+                "name": "Electric drill",
+                "foundInRaid": false
+              },
+              {
                 "quantity": 10,
                 "name": "Bolts",
                 "foundInRaid": false
               },
               {
                 "quantity": 3,
-                "name": "Toolset",
-                "foundInRaid": true
+                "name": "Weapon parts",
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Set of files \"Master\"",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 2,
-                "name": "Electric drill",
-                "foundInRaid": true
-              },
-              {
-                "quantity": 3,
-                "name": "Weapon parts",
                 "foundInRaid": false
               }
             ],
             "currencies": [],
-            "traders": [
-              {
-                "trader": "Mechanic",
-                "loyaltyLevel": 2
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Illumination",
-                "level": 2
+                "level": 1
+              },
+              {
+                "module": "Workbench",
+                "level": 1
               }
             ],
             "skills": []
           },
-          "constructionTime": "3 hours"
+          "constructionTime": "1 hour"
         },
         {
           "level": 3,
           "requirements": {
             "items": [
-              {
-                "quantity": 5,
-                "name": "Can of thermite",
-                "foundInRaid": false
-              },
               {
                 "quantity": 2,
                 "name": "Pliers Elite",
@@ -3032,6 +3126,11 @@
                 "quantity": 1,
                 "name": "#FireKlean gun lube",
                 "foundInRaid": true
+              },
+              {
+                "quantity": 5,
+                "name": "Can of thermite",
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -3040,12 +3139,7 @@
                 "currency": "Rouble"
               }
             ],
-            "traders": [
-              {
-                "trader": "Mechanic",
-                "loyaltyLevel": 3
-              }
-            ],
+            "traders": [],
             "modules": [
               {
                 "module": "Generator",
@@ -3054,427 +3148,15 @@
               {
                 "module": "Stash",
                 "level": 2
+              },
+              {
+                "module": "Workbench",
+                "level": 2
               }
             ],
             "skills": []
           },
           "constructionTime": "11 hours"
-        }
-      ]
-    },
-    {
-      "name": "Christmas Tree",
-      "levels": [
-        {
-          "level": 1,
-          "requirements": {
-            "items": [
-              {
-                "quantity": 1,
-                "name": "Christmas tree ornament (Red)",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 1,
-                "name": "Christmas tree ornament (Silver)",
-                "foundInRaid": false
-              },
-              {
-                "quantity": 1,
-                "name": "Christmas tree ornament (Violet)",
-                "foundInRaid": false
-              }
-            ],
-            "currencies": [],
-            "traders": [],
-            "modules": [
-              {
-                "module": "Generator",
-                "level": 1
-              }
-            ],
-            "skills": []
-          },
-          "constructionTime": "Instant"
-        }
-      ]
-    },
-    {
-      "name": "Sacrificed Item",
-      "levels": [
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Secure container Gamma (Edge of Darkness Edition)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Secure container Kappa (Desecrated)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Grizzly medical kit"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Spooky skull mask"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Santa's Bag"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "Deadlyslob's beard oiland/orBaddie's red beard(2 items total)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Maska-1SCh bulletproof helmet (Killa Edition) with face shield"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x3Bottle of Tarkovskaya vodka"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Tokarev TT-33 7.62x25 TT pistol (Golden)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Obdolbos cocktail injector+ x1Pack of sugar"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "Scav backpackand/orScav Vest(2 items total)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Tagilla's welding mask \"Gorilla\"or x1Tagilla's welding mask \"UBEY\""
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1HighCom Trooper TFO body armor (MultiCam)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Axel parrot figurine"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Bottle of Fierce Hatchling moonshine"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Awl"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x2Light bulb"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Fleece fabric"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1XTG-12 antidote injector"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1WD-40 (100ml)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Jack-o'-lantern tactical pumpkin helmet"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Christmas tree ornament (Silver)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Christmas tree ornament (Violet)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Christmas tree ornament (Red)"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Mr Kerman's cat hologram+ x1TerraGroup Labs access keycard"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Rusted bloody key"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Xenomorph sealing foam"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Video cassette with the Cyborg Killer movie"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Pack of nails"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Medical bloodset"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Tagilla's welding mask \"ZABEY\" (Replica)"
-        },
-        {
-          "level": 5,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1Cultist knife"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x1TerraGroup \"Blue Folders\" materials"
-        },
-        {
-          "level": 1,
-          "requirements": {
-            "items": [],
-            "currencies": [],
-            "traders": [],
-            "modules": [],
-            "skills": []
-          },
-          "constructionTime": "x2GreenBat lithium battery+ x2Tetriz portable game console"
         }
       ]
     }
