@@ -6,3 +6,11 @@
 # But allow the data directory and JSON files
 !data/
 !data/*.json
+!data/pvp/
+!data/pvp/*.json
+!data/pve/
+!data/pve/*.json
+
+# And the data generator
+!tools/
+!tools/*.py
