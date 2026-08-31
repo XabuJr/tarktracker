@@ -200,6 +200,39 @@ def build_mode(api_mode, old_images):
     quests.sort(key=lambda q: (q["giver"], q["name"]))
     quests_out = {"version": version, "quests": quests}
 
+    # ---- prices.json ----
+    # Trader sell prices for every sellable item (not just tracked ones).
+    trader_list = []
+    trader_index = {}
+    price_items = []
+    for iid, rec in items.items():
+        offers_raw = rec.get("sellToTrader") or []
+        if not offers_raw:
+            continue
+        name = item_name(iid)
+        if not name:
+            continue
+        offers = []
+        for o in offers_raw:
+            tname = traders_tr.get(f"{o.get('trader')} Nickname")
+            if not tname:
+                continue
+            if tname not in trader_index:
+                trader_index[tname] = len(trader_list)
+                trader_list.append(tname)
+            price = o.get("price") or 0
+            price_rub = o.get("priceRUB") or 0
+            cur = {"RUB": "RUB", "USD": "USD", "EUR": "EUR"}.get(o.get("currency"))
+            if not cur or price_rub <= 0:
+                continue
+            offers.append([trader_index[tname], int(price), int(price_rub), cur])
+        if not offers:
+            continue
+        offers.sort(key=lambda x: -x[2])
+        price_items.append({"name": name, "icon": item_icon(iid), "offers": offers})
+    price_items.sort(key=lambda x: x["name"])
+    prices_out = {"version": version, "traders": trader_list, "items": price_items}
+
     # ---- item_images.json ----
     images = {}
     for name, iid in sorted(referenced.items()):
@@ -209,7 +242,7 @@ def build_mode(api_mode, old_images):
             icon = item_icon(iid)
             if icon:
                 images[name] = icon
-    return hideout_out, quests_out, images
+    return hideout_out, quests_out, images, prices_out
 
 
 def main():
@@ -221,7 +254,7 @@ def main():
 
     for mode, api_mode in MODES.items():
         print(f"Generating {mode} (API game mode: {api_mode})...")
-        hideout_out, quests_out, images = build_mode(api_mode, old_images)
+        hideout_out, quests_out, images, prices_out = build_mode(api_mode, old_images)
         out_dir = os.path.join(REPO_ROOT, "data", mode)
         os.makedirs(out_dir, exist_ok=True)
         targets = [out_dir]
@@ -234,8 +267,10 @@ def main():
                 json.dump(quests_out, f, indent=2, ensure_ascii=False)
             with open(os.path.join(d, "item_images.json"), "w", encoding="utf-8") as f:
                 json.dump(images, f, indent=2, ensure_ascii=False)
+            with open(os.path.join(d, "prices.json"), "w", encoding="utf-8") as f:
+                json.dump(prices_out, f, separators=(",", ":"), ensure_ascii=False)
         print(f"  {len(hideout_out['modules'])} modules, {len(quests_out['quests'])} quests, "
-              f"{len(images)} item images")
+              f"{len(images)} item images, {len(prices_out['items'])} priced items")
     print("Done.")
 
 
