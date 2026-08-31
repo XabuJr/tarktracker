@@ -27,7 +27,7 @@ data/
 - **hideout.json** — Hideout module requirements (items, currency, trader loyalty, prerequisite modules, skills, construction time)
 - **quests.json** — Every task with item hand-in objectives (item name, quantity, found-in-raid flag, quest giver)
 - **item_images.json** — Item name → image URL mappings for display in the application
-- **prices.json** — Trader sell prices for every sellable item. Compact form: `traders` is a name array, and each item's `offers` are `[traderIndex, price, priceRUB, currency]` sorted by rouble value. Trader prices only — no flea market.
+- **prices.json** — Trader sell prices for every sellable item. Compact form: `traders` is a name array, and each item's `offers` are `[traderIndex, price, priceRUB, currency]` sorted by rouble value. `cats` lists the category filter labels; each item's `c` is an index into it (root handbook category), and `p: 1` marks factory presets (sold with stock plates/attachments installed). Trader prices only — no flea market.
 
 ## Data Source
 
