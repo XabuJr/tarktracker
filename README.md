@@ -16,16 +16,18 @@ data/
 ├── pvp/               # PvP (persistent "regular" game mode)
 │   ├── hideout.json
 │   ├── quests.json
-│   └── item_images.json
-└── pve/               # PvE game mode
-    ├── hideout.json
-    ├── quests.json
-    └── item_images.json
+│   ├── item_images.json
+│   └── prices.json
+├── pve/               # PvE game mode
+│   └── (same four files)
+└── pvp-s/             # PvP seasonal ("pvp-season") — hideout has no found-in-raid reqs
+    └── (same four files)
 ```
 
 - **hideout.json** — Hideout module requirements (items, currency, trader loyalty, prerequisite modules, skills, construction time)
 - **quests.json** — Every task with item hand-in objectives (item name, quantity, found-in-raid flag, quest giver)
 - **item_images.json** — Item name → image URL mappings for display in the application
+- **prices.json** — Trader sell prices for every sellable item. Compact form: `traders` is a name array, and each item's `offers` are `[traderIndex, price, priceRUB, currency]` sorted by rouble value. Trader prices only — no flea market.
 
 ## Data Source
 
@@ -44,4 +46,4 @@ The application checks for updates each time it launches and downloads fresh dat
 
 ## Version
 
-Current data version: 2026-08-30 (post-patch 1.1.0.0 / Season 1 "Kord Breach")
+Current data version: 2026-08-31 (post-patch 1.1.0.0 / Season 1 "Kord Breach")
