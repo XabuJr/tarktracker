@@ -2,6 +2,10 @@
 
 This repository contains data files for the TarkTracker desktop application.
 
+## Download the app
+
+**[⬇ TarkTracker-Setup.exe](https://github.com/XabuJr/tarktracker/releases/latest/download/TarkTracker-Setup.exe)** — Windows installer, double-click to install. The app keeps its game data current automatically; installers are published under [Releases](https://github.com/XabuJr/tarktracker/releases).
+
 ## Purpose
 
 TarkTracker is an Electron desktop application for tracking Escape from Tarkov hideout upgrades and quest items. This repository hosts the JSON data files that the application downloads on startup to ensure users always have the latest data.
