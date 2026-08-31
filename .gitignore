@@ -10,6 +10,8 @@
 !data/pvp/*.json
 !data/pve/
 !data/pve/*.json
+!data/pvp-s/
+!data/pvp-s/*.json
 
 # And the data generator
 !tools/

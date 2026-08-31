@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-31T01:22:19.000Z",
+  "version": "2026-08-31T01:22:24.000Z",
   "quests": [
     {
       "name": "A Bitter Victory",
@@ -1917,74 +1917,6 @@
           }
         ],
         "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "Easy Money - Part 2 [PVE ZONE]",
-      "giver": "Ref",
-      "objectives": {
-        "items": [
-          {
-            "name": "Items from the Drinks category",
-            "quantity": 5,
-            "foundInRaid": true
-          },
-          {
-            "name": "Items from the Food category",
-            "quantity": 5,
-            "foundInRaid": true
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "Postponed Reward [PVE ZONE]",
-      "giver": "Ref",
-      "objectives": {
-        "items": [
-          {
-            "name": "Lega Medal",
-            "quantity": 1,
-            "foundInRaid": false
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "Surprise [PVE ZONE]",
-      "giver": "Ref",
-      "objectives": {
-        "items": [
-          {
-            "name": "Class 4 or higher ballistic plates",
-            "quantity": 3,
-            "foundInRaid": true
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "To Great Heights! - Part 4 [PVE ZONE]",
-      "giver": "Ref",
-      "objectives": {
-        "items": [],
-        "currencies": [
-          {
-            "amount": 1000000,
-            "currency": "Rouble"
-          }
-        ],
         "other": [],
         "type": "standard"
       }

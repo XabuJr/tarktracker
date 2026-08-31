@@ -15,7 +15,7 @@ import urllib.request
 from datetime import datetime, timezone
 
 API = "https://json.tarkov.dev"
-MODES = {"pvp": "regular", "pve": "pve"}
+MODES = {"pvp": "regular", "pve": "pve", "pvp-s": "pvp-season"}
 REPO_ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 CURRENCY_ITEMS = {

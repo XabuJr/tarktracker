@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-31T01:22:16.000Z",
+  "version": "2026-08-31T01:22:24.000Z",
   "modules": [
     {
       "name": "Air Filtering Unit",
@@ -16,7 +16,7 @@
               {
                 "quantity": 5,
                 "name": "Gas mask air filter",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -62,7 +62,7 @@
               {
                 "quantity": 10,
                 "name": "Power supply unit",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
@@ -109,7 +109,7 @@
               {
                 "quantity": 15,
                 "name": "Printed circuit board",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -145,7 +145,7 @@
               {
                 "quantity": 25,
                 "name": "CPU fan",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
@@ -205,12 +205,12 @@
               {
                 "quantity": 2,
                 "name": "Analog thermometer",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 2,
                 "name": "Pressure gauge",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -220,7 +220,7 @@
               {
                 "quantity": 1,
                 "name": "Pipe grip wrench",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
@@ -266,27 +266,27 @@
               {
                 "quantity": 1,
                 "name": "Construction measuring tape",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "SurvL Survivor Lighter",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 3,
                 "name": "Can of white salt",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
                 "name": "Light bulb",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "PAID AntiRoach spray",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -486,7 +486,7 @@
               {
                 "quantity": 1,
                 "name": "Sewing kit",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 8,
@@ -501,12 +501,12 @@
               {
                 "quantity": 1,
                 "name": "Awl",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Electric drill",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -542,7 +542,7 @@
               {
                 "quantity": 1,
                 "name": "Wrench",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -572,7 +572,7 @@
               {
                 "quantity": 1,
                 "name": "Electric drill",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -608,12 +608,12 @@
               {
                 "quantity": 1,
                 "name": "Ratchet wrench",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Set of files \"Master\"",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
@@ -638,7 +638,7 @@
               {
                 "quantity": 1,
                 "name": "Body armor repair kit",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -756,7 +756,7 @@
               {
                 "quantity": 3,
                 "name": "Electric motor",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 16,
@@ -766,7 +766,7 @@
               {
                 "quantity": 5,
                 "name": "Power supply unit",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -806,17 +806,17 @@
               {
                 "quantity": 1,
                 "name": "Toolset",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Electric drill",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Metal cutting scissors",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
@@ -871,7 +871,7 @@
               {
                 "quantity": 1,
                 "name": "Round pliers",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
@@ -881,7 +881,7 @@
               {
                 "quantity": 1,
                 "name": "Cat figurine",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
@@ -922,22 +922,22 @@
               {
                 "quantity": 1,
                 "name": "Tech manual",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Pliers Elite",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Toolset",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Golden rooster figurine",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -984,17 +984,17 @@
               {
                 "quantity": 1,
                 "name": "Set of files \"Master\"",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Electric drill",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Bronze lion figurine",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
@@ -1004,7 +1004,7 @@
               {
                 "quantity": 3,
                 "name": "KEKTAPE duct tape",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 6,
@@ -1124,12 +1124,12 @@
               {
                 "quantity": 4,
                 "name": "Phase control relay",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 2,
                 "name": "Military corrugated tube",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -1222,7 +1222,7 @@
               {
                 "quantity": 7,
                 "name": "Capacitors",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 12,
@@ -1380,7 +1380,7 @@
               {
                 "quantity": 2,
                 "name": "Military COFDM Wireless Signal Transmitter",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 2,
@@ -1532,12 +1532,12 @@
               {
                 "quantity": 2,
                 "name": "Pressure gauge",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Toolset",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 6,
@@ -1577,12 +1577,12 @@
               {
                 "quantity": 1,
                 "name": "Horse figurine",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 2,
                 "name": "Chainlet",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 8,
@@ -1602,7 +1602,7 @@
               {
                 "quantity": 1,
                 "name": "BakeEzy cook book",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -1737,7 +1737,7 @@
               {
                 "quantity": 1,
                 "name": "Ophthalmoscope",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -1870,7 +1870,7 @@
               {
                 "quantity": 2,
                 "name": "Smoked Chimney drain cleaner",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -2034,27 +2034,27 @@
               {
                 "quantity": 3,
                 "name": "Bronze lion figurine",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 6,
                 "name": "Gold skull ring",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 8,
                 "name": "Golden neck chain",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 4,
                 "name": "Roler Submariner gold wrist watch",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 3,
                 "name": "Bottle of Fierce Hatchling moonshine",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
@@ -2064,7 +2064,7 @@
               {
                 "quantity": 1,
                 "name": "Golden rooster figurine",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -2159,7 +2159,7 @@
               {
                 "quantity": 2,
                 "name": "Working LCD",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -2174,7 +2174,7 @@
               {
                 "quantity": 1,
                 "name": "SSD drive",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -2242,7 +2242,7 @@
               {
                 "quantity": 1,
                 "name": "Toolset",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 8,
@@ -2252,7 +2252,7 @@
               {
                 "quantity": 1,
                 "name": "Construction measuring tape",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 6,
@@ -2272,7 +2272,7 @@
               {
                 "quantity": 3,
                 "name": "Electric motor",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 6,
@@ -2287,7 +2287,7 @@
               {
                 "quantity": 1,
                 "name": "Electric drill",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -2317,7 +2317,7 @@
               {
                 "quantity": 1,
                 "name": "Set of files \"Master\"",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -2357,7 +2357,7 @@
               {
                 "quantity": 1,
                 "name": "Tech manual",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -2399,7 +2399,7 @@
               {
                 "quantity": 3,
                 "name": "Working LCD",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
@@ -2557,7 +2557,7 @@
               {
                 "quantity": 2,
                 "name": "Ratchet wrench",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -2658,7 +2658,7 @@
               {
                 "quantity": 4,
                 "name": "Electric motor",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 14,
@@ -2673,7 +2673,7 @@
               {
                 "quantity": 4,
                 "name": "Car battery",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -2792,7 +2792,7 @@
               {
                 "quantity": 2,
                 "name": "Pliers Elite",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -2802,7 +2802,7 @@
               {
                 "quantity": 1,
                 "name": "Ratchet wrench",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [
@@ -2842,12 +2842,12 @@
               {
                 "quantity": 1,
                 "name": "Hand drill",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Metal cutting scissors",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
@@ -2903,12 +2903,12 @@
               {
                 "quantity": 1,
                 "name": "Electric drill",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "Set of files \"Master\"",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 10,
@@ -2977,7 +2977,7 @@
               {
                 "quantity": 1,
                 "name": "Electric drill",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
@@ -2992,7 +2992,7 @@
               {
                 "quantity": 5,
                 "name": "KEKTAPE duct tape",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 15,
@@ -3007,12 +3007,12 @@
               {
                 "quantity": 1,
                 "name": "Tech manual",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "#FireKlean gun lube",
-                "foundInRaid": true
+                "foundInRaid": false
               }
             ],
             "currencies": [],
@@ -3120,12 +3120,12 @@
               {
                 "quantity": 2,
                 "name": "Pliers Elite",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 1,
                 "name": "#FireKlean gun lube",
-                "foundInRaid": true
+                "foundInRaid": false
               },
               {
                 "quantity": 5,
