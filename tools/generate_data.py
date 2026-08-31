@@ -185,6 +185,18 @@ def build_mode(api_mode, old_images):
                 "type": "standard",
             },
         })
+    # Repeatable tasks can appear multiple times under the same name (e.g. the
+    # BTR Driver's "Battery Change"); progress is tracked by name, so keep one.
+    seen_names = set()
+    deduped = []
+    for q in quests:
+        key = (q["giver"], q["name"])
+        if key in seen_names:
+            continue
+        seen_names.add(key)
+        deduped.append(q)
+    quests = deduped
+
     quests.sort(key=lambda q: (q["giver"], q["name"]))
     quests_out = {"version": version, "quests": quests}
 

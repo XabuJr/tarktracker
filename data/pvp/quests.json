@@ -1,5 +1,5 @@
 {
-  "version": "2026-08-30T23:29:18.000Z",
+  "version": "2026-08-31T00:20:11.000Z",
   "quests": [
     {
       "name": "A Bitter Victory",
@@ -24,22 +24,6 @@
           {
             "name": "Bottle of Tarkovskaya vodka",
             "quantity": 4,
-            "foundInRaid": false
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "Battery Change",
-      "giver": "BTR Driver",
-      "objectives": {
-        "items": [
-          {
-            "name": "6-STEN-140-M military battery",
-            "quantity": 1,
             "foundInRaid": false
           }
         ],
@@ -1562,38 +1546,6 @@
       }
     },
     {
-      "name": "Drip-Out - Part 1",
-      "giver": "Ragman",
-      "objectives": {
-        "items": [
-          {
-            "name": "WARTECH brand equipment",
-            "quantity": 50,
-            "foundInRaid": true
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "Drip-Out - Part 2",
-      "giver": "Ragman",
-      "objectives": {
-        "items": [
-          {
-            "name": "LBT brand equipment",
-            "quantity": 50,
-            "foundInRaid": true
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
       "name": "Drip-Out - Part 2",
       "giver": "Ragman",
       "objectives": {
@@ -1705,68 +1657,6 @@
           {
             "name": "Trader figurine",
             "quantity": 2,
-            "foundInRaid": true
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "Neuanfang",
-      "giver": "Ragman",
-      "objectives": {
-        "items": [
-          {
-            "name": "PMC figurine",
-            "quantity": 3,
-            "foundInRaid": true
-          },
-          {
-            "name": "Scav figurine",
-            "quantity": 3,
-            "foundInRaid": true
-          },
-          {
-            "name": "Boss figurine",
-            "quantity": 3,
-            "foundInRaid": true
-          },
-          {
-            "name": "Trader figurine",
-            "quantity": 3,
-            "foundInRaid": true
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "Neuanfang",
-      "giver": "Ragman",
-      "objectives": {
-        "items": [
-          {
-            "name": "PMC figurine",
-            "quantity": 3,
-            "foundInRaid": true
-          },
-          {
-            "name": "Scav figurine",
-            "quantity": 3,
-            "foundInRaid": true
-          },
-          {
-            "name": "Boss figurine",
-            "quantity": 3,
-            "foundInRaid": true
-          },
-          {
-            "name": "Trader figurine",
-            "quantity": 3,
             "foundInRaid": true
           }
         ],
@@ -2012,58 +1902,6 @@
           {
             "name": "Paracord",
             "quantity": 3,
-            "foundInRaid": true
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "Textile - Part 1",
-      "giver": "Ragman",
-      "objectives": {
-        "items": [
-          {
-            "name": "Aramid fiber fabric",
-            "quantity": 5,
-            "foundInRaid": true
-          },
-          {
-            "name": "Ripstop fabric",
-            "quantity": 10,
-            "foundInRaid": true
-          },
-          {
-            "name": "Paracord",
-            "quantity": 3,
-            "foundInRaid": true
-          }
-        ],
-        "currencies": [],
-        "other": [],
-        "type": "standard"
-      }
-    },
-    {
-      "name": "Textile - Part 2",
-      "giver": "Ragman",
-      "objectives": {
-        "items": [
-          {
-            "name": "Fleece fabric",
-            "quantity": 10,
-            "foundInRaid": true
-          },
-          {
-            "name": "Cordura polyamide fabric",
-            "quantity": 10,
-            "foundInRaid": true
-          },
-          {
-            "name": "KEKTAPE duct tape",
-            "quantity": 5,
             "foundInRaid": true
           }
         ],
