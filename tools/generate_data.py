@@ -24,6 +24,22 @@ CURRENCY_ITEMS = {
     "569668774bdc2da2298b4568": "Euro",
 }
 
+# Root handbook categories exposed as price filters, in display order.
+# Roots not listed here (task-items, maps — a handful of items) stay
+# uncategorized and only appear under "All items".
+PRICE_CATEGORIES = [
+    ("barter-items", "Barter items"),
+    ("keys", "Keys"),
+    ("gear", "Gear"),
+    ("weapons", "Weapons"),
+    ("weapon-parts-mods", "Weapon mods"),
+    ("ammo", "Ammo"),
+    ("provisions", "Provisions"),
+    ("medication", "Meds"),
+    ("info-items", "Info items"),
+    ("special-equipment", "Special gear"),
+]
+
 
 def fetch(path):
     url = f"{API}/{path}"
@@ -74,7 +90,9 @@ def build_mode(api_mode, old_images):
     hideout_tr = fetch(f"{api_mode}/hideout_en")["data"]
     tasks = fetch(f"{api_mode}/tasks")
     tasks_tr = fetch(f"{api_mode}/tasks_en")["data"]
-    items = fetch(f"{api_mode}/items")["data"]["items"]
+    items_data = fetch(f"{api_mode}/items")["data"]
+    items = items_data["items"]
+    handbook = items_data.get("handbookCategories") or {}
     items_tr = fetch(f"{api_mode}/items_en")["data"]
     traders_tr = fetch(f"{api_mode}/traders_en")["data"]
 
@@ -202,6 +220,19 @@ def build_mode(api_mode, old_images):
 
     # ---- prices.json ----
     # Trader sell prices for every sellable item (not just tracked ones).
+    # Each item carries its root handbook category as an index into "cats"
+    # ("c"), and "p": 1 marks presets — items sold with their stock
+    # plates/attachments installed, which is why they outprice the bare item.
+    def hb_root(cid):
+        seen = set()
+        while cid in handbook and handbook[cid].get("parent") and cid not in seen:
+            seen.add(cid)
+            cid = handbook[cid]["parent"]
+        return cid
+
+    cat_labels = dict(PRICE_CATEGORIES)
+    cat_list = [label for _, label in PRICE_CATEGORIES]
+    cat_index = {label: i for i, label in enumerate(cat_list)}
     trader_list = []
     trader_index = {}
     price_items = []
@@ -229,9 +260,19 @@ def build_mode(api_mode, old_images):
         if not offers:
             continue
         offers.sort(key=lambda x: -x[2])
-        price_items.append({"name": name, "icon": item_icon(iid), "offers": offers})
+        entry = {"name": name, "icon": item_icon(iid), "offers": offers}
+        hbs = rec.get("handbookCategories") or []
+        if hbs:
+            root = handbook.get(hb_root(hbs[0])) or {}
+            label = cat_labels.get(root.get("normalizedName"))
+            if label:
+                entry["c"] = cat_index[label]
+        if "preset" in (rec.get("types") or []):
+            entry["p"] = 1
+        price_items.append(entry)
     price_items.sort(key=lambda x: x["name"])
-    prices_out = {"version": version, "traders": trader_list, "items": price_items}
+    prices_out = {"version": version, "traders": trader_list,
+                  "cats": cat_list, "items": price_items}
 
     # ---- item_images.json ----
     images = {}
