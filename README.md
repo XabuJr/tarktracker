@@ -4,7 +4,7 @@ This repository contains data files for the TarkTracker desktop application.
 
 ## Download the app
 
-**[⬇ TarkTracker-Setup.exe](https://github.com/XabuJr/tarktracker/releases/latest/download/TarkTracker-Setup.exe)** — Windows installer, double-click to install. The app keeps its game data current automatically; installers are published under [Releases](https://github.com/XabuJr/tarktracker/releases).
+**[⬇ TarkTracker-Setup.exe](https://github.com/XabuJr/tarktracker/releases/latest/download/TarkTracker-Setup.exe)** — Windows installer, double-click to install. The app keeps its game data current automatically, and from v2.1.0 on it also **updates itself** from the [Releases](https://github.com/XabuJr/tarktracker/releases) published here — install once and you're done. (The `.nupkg` and `RELEASES` assets on each release are that update feed.)
 
 ## Purpose
 
