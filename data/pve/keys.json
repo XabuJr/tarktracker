@@ -1,0 +1,1118 @@
+{
+  "version": "2026-09-01T18:16:17.000Z",
+  "tasks": [
+    {
+      "name": "Background Check",
+      "giver": "Prapor",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the bronze pocket watch on Customs",
+          "keys": [
+            [
+              "Machinery key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bad Rep Evidence",
+      "giver": "Prapor",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain Secure Folder 0031 in one of the bunkhouses on Customs",
+          "keys": [
+            [
+              "Portable bunkhouse key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemical - Part 1",
+      "giver": "Skier",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain any information about the deputy chief’s past life on Customs",
+          "keys": [
+            [
+              "Dorm room 220 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemical - Part 2",
+      "giver": "Skier",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain any evidence that could help with the investigation on Customs",
+          "keys": [
+            [
+              "Dorm room 220 key"
+            ]
+          ]
+        },
+        {
+          "what": "Locate and obtain any information that could help with the investigation on Customs",
+          "keys": [
+            [
+              "Dorm room 220 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Delivery From the Past",
+      "giver": "Prapor",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the valuable folder in Tarcone director's office on Customs",
+          "keys": [
+            [
+              "Tarcone Director's office key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Farming",
+      "giver": "Mechanic",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Obtain the package of graphics cards",
+          "keys": [
+            [
+              "Tarcone Director's office key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Golden Swag",
+      "giver": "Skier",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the golden Zibbo lighter from Dorm room 303 on Customs",
+          "keys": [
+            [
+              "Dorm room 303 key"
+            ]
+          ]
+        },
+        {
+          "what": "Stash a regular Zibbo lighter at Dorm room 303 on Customs",
+          "keys": [
+            [
+              "Trailer park portable cabin key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Operation Aquarius",
+      "giver": "Therapist",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate the water stockpile hidden inside one of the dorm rooms on Customs",
+          "keys": [
+            [
+              "Dorm room 206 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pharmacist",
+      "giver": "Therapist",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the suitcase with the device on Customs",
+          "keys": [
+            [
+              "Dorm room 114 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shaking Up the Teller",
+      "giver": "Prapor",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the valuable item in dorm room 203 on Customs",
+          "keys": [
+            [
+              "Dorm room 203 key"
+            ]
+          ]
+        },
+        {
+          "what": "Gain access to dorm room 214 on Customs",
+          "keys": [
+            [
+              "Dorm room 214 key"
+            ]
+          ],
+          "optional": true
+        }
+      ]
+    },
+    {
+      "name": "Shipment Tracking",
+      "giver": "Therapist",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the TerraGroup shipment lists on Customs",
+          "keys": [
+            [
+              "Company director's room key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Extortionist",
+      "giver": "Skier",
+      "map": "Customs",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the hidden valuable cargo on Customs",
+          "keys": [
+            [
+              "Unknown key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Against the Conscience - Part 1 [PVE ZONE]",
+      "giver": "Fence",
+      "map": "Customs",
+      "level": 10,
+      "steps": [
+        {
+          "what": "Locate the old champion's room on Customs",
+          "keys": [
+            [
+              "Dorm overseer key"
+            ]
+          ]
+        },
+        {
+          "what": "Find out what happened to the champion",
+          "keys": [
+            [
+              "Dorm overseer key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Between Two Fires [PVE ZONE]",
+      "giver": "Fence",
+      "map": "Customs",
+      "level": 10,
+      "steps": [
+        {
+          "what": "Return to the old champion's hideout on Customs",
+          "keys": [
+            [
+              "Dorm overseer key"
+            ]
+          ]
+        },
+        {
+          "what": "Locate and obtain the compromising information on Ref",
+          "keys": [
+            [
+              "Dorm overseer key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Decisions, Decisions [PVE ZONE]",
+      "giver": "Ref",
+      "map": "Customs",
+      "level": 10,
+      "steps": [
+        {
+          "what": "Locate and obtain the compromising information on Ref",
+          "keys": [
+            [
+              "Dorm overseer key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surprise Gift [PVE ZONE]",
+      "giver": "Lightkeeper",
+      "map": "Customs",
+      "level": 35,
+      "steps": [
+        {
+          "what": "Return to the old champion's hideout on Customs",
+          "keys": [
+            [
+              "Dorm overseer key"
+            ]
+          ]
+        },
+        {
+          "what": "Locate and obtain the compromising information on Ref",
+          "keys": [
+            [
+              "Dorm overseer key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Dragnet",
+      "giver": "Jaeger",
+      "map": "Factory",
+      "level": 9,
+      "steps": [
+        {
+          "what": "Locate and obtain the chemical container at the TerraGroup warehouse on Factory",
+          "keys": [
+            [
+              "TerraGroup storage room keycard"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Health Care Privacy - Part 6",
+      "giver": "Therapist",
+      "map": "Factory",
+      "level": 37,
+      "steps": [
+        {
+          "what": "Locate the dead worker and take their blood sample on Factory",
+          "keys": [
+            [
+              "Factory emergency exit key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Is This a Reference?",
+      "giver": "Fence",
+      "map": "Factory / Night Factory",
+      "level": 25,
+      "steps": [
+        {
+          "what": "Install a WI-FI Camera in the conspiracy theorist's room on Factory",
+          "keys": [
+            [
+              "Factory emergency exit key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "A Big Loss",
+      "giver": "Ragman",
+      "map": "Interchange",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the OLI cargo route documents on Interchange",
+          "keys": [
+            [
+              "OLI logistics department office key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Provocation",
+      "giver": "Lightkeeper",
+      "map": "Interchange",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Stash a Salty Dog beef sausage inside the Kiba Arms store",
+          "keys": [
+            [
+              "Kiba Arms outer door key"
+            ],
+            [
+              "Kiba Arms inner grate door key"
+            ]
+          ]
+        },
+        {
+          "what": "Stash a Bottle of Fierce Hatchling moonshine inside the secret secure hideout",
+          "keys": [
+            [
+              "Object #11SR keycard"
+            ]
+          ]
+        },
+        {
+          "what": "Stash a Toilet paper inside the secret container stash",
+          "keys": [
+            [
+              "Object #21WS keycard"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Irresistible",
+      "giver": "Skier",
+      "map": "Interchange",
+      "level": 22,
+      "steps": [
+        {
+          "what": "Locate and obtain the lost weapon crate on Interchange",
+          "keys": [
+            [
+              "Object #21WS keycard"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Top Secret",
+      "giver": "Skier",
+      "map": "Lighthouse",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate the radar station commandant's office on Lighthouse",
+          "keys": [
+            [
+              "Radar station commandant room key"
+            ]
+          ]
+        },
+        {
+          "what": "Locate and obtain the HDD with archived flight routes inside the room",
+          "keys": [
+            [
+              "Radar station commandant room key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Broadcast - Part 1",
+      "giver": "Mechanic",
+      "map": "Lighthouse",
+      "level": 12,
+      "steps": [
+        {
+          "what": "Locate the hidden recording studio on Lighthouse",
+          "keys": [
+            [
+              "Operating room key"
+            ]
+          ]
+        },
+        {
+          "what": "Place a Signal Jammer inside the studio",
+          "keys": [
+            [
+              "Operating room key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Disease History",
+      "giver": "Therapist",
+      "map": "Reserve",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Obtain Medical record #1 on Reserve",
+          "keys": [
+            [
+              "RB-KSM key"
+            ]
+          ]
+        },
+        {
+          "what": "Obtain Medical record #2 on Reserve",
+          "keys": [
+            [
+              "RB-SMP key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Reserve Expert",
+      "giver": "Ragman",
+      "map": "Reserve",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Check the duty room in the eastern barracks (Black Pawn) on Reserve",
+          "keys": [
+            [
+              "RB-OB key"
+            ]
+          ]
+        },
+        {
+          "what": "Check the second armory in the eastern barracks (Black Pawn) on Reserve",
+          "keys": [
+            [
+              "RB-ORB3 key"
+            ]
+          ]
+        },
+        {
+          "what": "Check the first armory in the southern barracks (White Pawn) on Reserve",
+          "keys": [
+            [
+              "RB-ORB1 key"
+            ]
+          ]
+        },
+        {
+          "what": "Check the second armory in the southern barracks (White Pawn) on Reserve",
+          "keys": [
+            [
+              "RB-ORB2 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snatch",
+      "giver": "Lightkeeper",
+      "map": "Reserve",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Obtain the original intelligence in the repair station on Reserve",
+          "keys": [
+            [
+              "RB-ST key"
+            ]
+          ]
+        },
+        {
+          "what": "Stash the forged intelligence under the BMP-2 in place of the original",
+          "keys": [
+            [
+              "RB-ST key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Revision - Reserve",
+      "giver": "Peacekeeper",
+      "map": "Reserve",
+      "level": 19,
+      "steps": [
+        {
+          "what": "Locate and inspect the third BMP-2 on Reserve",
+          "keys": [
+            [
+              "RB-ST key"
+            ]
+          ]
+        },
+        {
+          "what": "Mark the third BMP-2 with an MS2000 Marker",
+          "keys": [
+            [
+              "RB-ST key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surplus Goods",
+      "giver": "Mechanic",
+      "map": "Reserve",
+      "level": 26,
+      "steps": [
+        {
+          "what": "Obtain the MBT Integrated Navigation System on Reserve",
+          "keys": [
+            [
+              "RB-ST key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cargo X",
+      "giver": "Peacekeeper",
+      "map": "Shoreline",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the data in Health Resort east wing computer room on Shoreline",
+          "keys": [
+            [
+              "Health Resort east wing room 306 key",
+              "Health Resort east wing room 308 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Chemistry Closet",
+      "giver": "Mechanic",
+      "map": "Shoreline",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate Sanitar's office in the health resort on Shoreline",
+          "keys": [
+            [
+              "Health Resort office key with a blue tape"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "I Need More Power",
+      "giver": "Peacekeeper",
+      "map": "Shoreline",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate the generators in the west wing of the Health Resort on Shoreline",
+          "keys": [
+            [
+              "Health Resort west wing room 219 key",
+              "Health Resort west wing room 220 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tarkov-Style Diplomacy",
+      "giver": "Therapist",
+      "map": "Shoreline",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain Sanitar's ophthalmoscope on Shoreline",
+          "keys": [
+            [
+              "Cottage back door key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Vitamins",
+      "giver": "Skier",
+      "map": "Shoreline",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the chemical container on Factory",
+          "keys": [
+            [
+              "Health Resort west wing office room 112 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Health Care Privacy - Part 2",
+      "giver": "Therapist",
+      "map": "Shoreline",
+      "level": 5,
+      "steps": [
+        {
+          "what": "Locate and obtain any info about TerraGroup's research in Health Resort west wing on Shoreline",
+          "keys": [
+            [
+              "Health Resort west wing room 306 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wet Job - Part 5",
+      "giver": "Peacekeeper",
+      "map": "Shoreline",
+      "level": 37,
+      "steps": [
+        {
+          "what": "Locate and obtain any information on Artyom’s work on Shoreline",
+          "keys": [
+            [
+              "Health Resort east wing room 328 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ballet Lover",
+      "giver": "Ragman",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate the balletmeister's apartment on Streets of Tarkov",
+          "keys": [
+            [
+              "Primorsky 46-48 skybridge key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Corporate Perks",
+      "giver": "Mechanic",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Unravel the secret of the firm's success",
+          "keys": [
+            [
+              "\"Negotiation\" room key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "House Arrest",
+      "giver": "Skier",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate where the missing group was held captive on Streets of Tarkov",
+          "keys": [
+            [
+              "Iron gate key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Missing Informant",
+      "giver": "Lightkeeper",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate the informant's backup hideout on Streets of Tarkov",
+          "keys": [
+            [
+              "Backup hideout key"
+            ]
+          ]
+        },
+        {
+          "what": "Obtain the informant's journal",
+          "keys": [
+            [
+              "Backup hideout key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Pets Won't Need It",
+      "giver": "Therapist",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and scout the x-ray technician's room on Streets of Tarkov",
+          "keys": [
+            [
+              "X-ray room key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Properties All Around",
+      "giver": "Prapor",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the Tarkov real estate transactions document",
+          "keys": [
+            [
+              "Real estate agency office room key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Spotter",
+      "giver": "Lightkeeper",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate a good sniping position at Primorsky overlooking the movie theater",
+          "keys": [
+            [
+              "Primorsky 46-48 skybridge key"
+            ]
+          ]
+        },
+        {
+          "what": "Hide Trijicon REAP-IR thermal scope under Makhors' bed",
+          "keys": [
+            [
+              "Primorsky 46-48 skybridge key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surveillance",
+      "giver": "Mechanic",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Obtain the data on vehicle movement at the Concordia residential complex parking lot on Streets of Tarkov",
+          "keys": [
+            [
+              "Concordia security room key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Door",
+      "giver": "Mechanic",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Install a WI-FI Camera to watch the stairwell",
+          "keys": [
+            [
+              "Rusted bloody key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Secret Recipe",
+      "giver": "Skier",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain the red vial at the TerraGroup office on Streets of Tarkov",
+          "keys": [
+            [
+              "TerraGroup meeting room key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "The Secret to Productivity",
+      "giver": "Mechanic",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Unravel the secret of the IT firm's employees' high morale on Streets of Tarkov",
+          "keys": [
+            [
+              "Relaxation room key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Your Car Needs a Service",
+      "giver": "Peacekeeper",
+      "map": "Streets of Tarkov",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Obtain the digital storage device from the car dealership manager's office on Streets of Tarkov",
+          "keys": [
+            [
+              "Car dealership director's office room key"
+            ],
+            [
+              "Car dealership closed section key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Beyond the Red Meat",
+      "giver": "Skier",
+      "map": "Streets of Tarkov",
+      "level": 7,
+      "steps": [
+        {
+          "what": "Locate and obtain information on culinary secrets at the Beluga restaurant on Streets of Tarkov",
+          "keys": [
+            [
+              "Beluga restaurant director key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Watching You",
+      "giver": "Mechanic",
+      "map": "Streets of Tarkov",
+      "level": 12,
+      "steps": [
+        {
+          "what": "Obtain the observation results",
+          "keys": [
+            [
+              "Pinewood hotel room 215 key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Broadcast - Part 4",
+      "giver": "Jaeger",
+      "map": "Streets of Tarkov",
+      "level": 17,
+      "steps": [
+        {
+          "what": "Locate the cultist meeting spot on Streets of Tarkov",
+          "keys": [
+            [
+              "Abandoned factory marked key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Broadcast - Part 5",
+      "giver": "Jaeger",
+      "map": "Streets of Tarkov",
+      "level": 17,
+      "steps": [
+        {
+          "what": "Locate the ritual spot on Chekannaya st. on Streets of Tarkov",
+          "keys": [
+            [
+              "Mysterious room marked key"
+            ]
+          ]
+        },
+        {
+          "what": "Stash a Cultist knife at the ritual spot",
+          "keys": [
+            [
+              "Mysterious room marked key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Audiophile",
+      "giver": "Ragman",
+      "map": "Streets of Tarkov",
+      "level": 27,
+      "steps": [
+        {
+          "what": "Locate the musician gathering spot on Streets of Tarkov",
+          "keys": [
+            [
+              "Primorsky 46-48 skybridge key"
+            ]
+          ]
+        },
+        {
+          "what": "Locate and obtain the engraved guitar pick",
+          "keys": [
+            [
+              "Primorsky 46-48 skybridge key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "House Arrest - Part 2",
+      "giver": "Skier",
+      "map": "Streets of Tarkov",
+      "level": 33,
+      "steps": [
+        {
+          "what": "Find out what happened to the warden",
+          "keys": [
+            [
+              "Chekannaya 15 apartment key"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Following the Bread Crumbs",
+      "giver": "Lightkeeper",
+      "map": "The Lab",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Search the weapon testing area in The Lab",
+          "keys": [
+            [
+              "TerraGroup Labs weapon testing area key"
+            ]
+          ]
+        },
+        {
+          "what": "Search the human experiment room in The Lab",
+          "keys": [
+            [
+              "TerraGroup Labs keycard (Black)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Make Amends - Quarantine",
+      "giver": "Mechanic",
+      "map": "The Lab",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Place a WI-FI Camera inside the quarantine zone in The Lab",
+          "keys": [
+            [
+              "TerraGroup Labs keycard (Black)"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "TerraGroup Employee",
+      "giver": "Peacekeeper",
+      "map": "The Lab",
+      "level": 0,
+      "steps": [
+        {
+          "what": "Locate and obtain any information about Sanitar's work",
+          "keys": [
+            [
+              "Keycard with a blue marking"
+            ]
+          ]
+        },
+        {
+          "what": "Locate Sanitar's workplace in The Lab",
+          "keys": [
+            [
+              "Keycard with a blue marking"
+            ]
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Keeper's Word",
+      "giver": "Lightkeeper",
+      "map": "The Labyrinth",
+      "level": 26,
+      "steps": [
+        {
+          "what": "Stash a Cultist knife in the third special place inside The Labyrinth",
+          "keys": [
+            [
+              "Corpse room key"
+            ]
+          ]
+        }
+      ]
+    }
+  ]
+}

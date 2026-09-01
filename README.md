@@ -21,16 +21,18 @@ data/
 │   ├── hideout.json
 │   ├── quests.json
 │   ├── item_images.json
-│   └── prices.json
+│   ├── prices.json
+│   └── keys.json
 ├── pve/               # PvE game mode
-│   └── (same four files)
+│   └── (same five files)
 └── pvp-s/             # PvP seasonal ("pvp-season") — hideout has no found-in-raid reqs
-    └── (same four files)
+    └── (same five files)
 ```
 
 - **hideout.json** — Hideout module requirements (items, currency, trader loyalty, prerequisite modules, skills, construction time)
 - **quests.json** — Every task with item hand-in objectives (item name, quantity, found-in-raid flag, quest giver)
 - **item_images.json** — Item name → image URL mappings for display in the application
+- **keys.json** — Tasks that require keys (locked doors, gates, keycards). Each task carries `name`, `giver`, `map`, `level`, and `steps`; each step is one objective with its text (`what`) and `keys` as groups of alternatives — every group is required, any one key inside a group works (`optional: true` marks optional objectives). Consumed by the app's Keys view (v2.2.0+); key icons ride in `item_images.json`.
 - **prices.json** — Trader sell prices for every sellable item. Compact form: `traders` is a name array, and each item's `offers` are `[traderIndex, price, priceRUB, currency]` sorted by rouble value. `cats` lists the category filter labels; each item's `c` is an index into it (root handbook category), and `p: 1` marks factory presets (sold with stock plates/attachments installed). Trader prices only — no flea market.
 
 ## Data Source

@@ -1,8 +1,9 @@
 #!/usr/bin/env python3
 """Generate TarkTracker data files from the json.tarkov.dev dump API.
 
-Produces quests.json, hideout.json, and item_images.json for each game mode
-(pvp = "regular", pve = "pve"), matching the schema the TarkTracker app expects.
+Produces quests.json, hideout.json, item_images.json, prices.json, and keys.json
+for each game mode (pvp = "regular", pve = "pve", pvp-s = "pvp-season"),
+matching the schema the TarkTracker app expects.
 Top-level data/ holds the PvP files for backward compatibility with app 1.0.0;
 data/pvp/ and data/pve/ hold the per-mode files for the tabbed app version.
 
@@ -95,6 +96,10 @@ def build_mode(api_mode, old_images):
     handbook = items_data.get("handbookCategories") or {}
     items_tr = fetch(f"{api_mode}/items_en")["data"]
     traders_tr = fetch(f"{api_mode}/traders_en")["data"]
+    maps_tr = fetch(f"{api_mode}/maps_en")["data"]
+
+    def map_name(mid):
+        return maps_tr.get(f"{mid} Name") if mid else None
 
     def item_name(iid):
         rec = items.get(iid)
@@ -218,6 +223,57 @@ def build_mode(api_mode, old_images):
     quests.sort(key=lambda q: (q["giver"], q["name"]))
     quests_out = {"version": version, "quests": quests}
 
+    # ---- keys.json ----
+    # Every task with an objective that needs a key (locked door, gate,
+    # keycard). Each step keeps the objective text and its key groups:
+    # all groups are required, and any one key within a group will do
+    # (e.g. Health Resort room 219 OR 220 key). Key names are added to
+    # `referenced` so item_images.json carries their icons.
+    key_tasks = []
+    for t in tasks["data"]["tasks"].values():
+        steps, step_maps = [], []
+        for o in t["objectives"]:
+            groups = []
+            for grp in o.get("requiredKeys") or []:
+                names = []
+                for kid in grp:
+                    kname = item_name(kid)
+                    if kname:
+                        names.append(kname)
+                        referenced.setdefault(kname, kid)
+                if names:
+                    groups.append(names)
+            if not groups:
+                continue
+            for mid in o.get("maps") or []:
+                mn = map_name(mid)
+                if mn and mn not in step_maps:
+                    step_maps.append(mn)
+            step = {"what": tasks_tr.get(o["description"]) or "", "keys": groups}
+            if o.get("optional"):
+                step["optional"] = True
+            steps.append(step)
+        if not steps:
+            continue
+        key_tasks.append({
+            "name": tasks_tr.get(t["name"], t["name"]),
+            "giver": traders_tr.get(f"{t['trader']} Nickname", "Unknown"),
+            "map": map_name(t.get("map")) or " / ".join(step_maps) or "Any map",
+            "level": t.get("minPlayerLevel") or 0,
+            "steps": steps,
+        })
+    seen_names = set()
+    deduped = []
+    for kt in key_tasks:
+        key = (kt["giver"], kt["name"])
+        if key in seen_names:
+            continue
+        seen_names.add(key)
+        deduped.append(kt)
+    key_tasks = deduped
+    key_tasks.sort(key=lambda k: (k["map"], k["level"], k["name"]))
+    keys_out = {"version": version, "tasks": key_tasks}
+
     # ---- prices.json ----
     # Trader sell prices for every sellable item (not just tracked ones).
     # Each item carries its root handbook category as an index into "cats"
@@ -283,7 +339,7 @@ def build_mode(api_mode, old_images):
             icon = item_icon(iid)
             if icon:
                 images[name] = icon
-    return hideout_out, quests_out, images, prices_out
+    return hideout_out, quests_out, images, prices_out, keys_out
 
 
 def main():
@@ -295,7 +351,7 @@ def main():
 
     for mode, api_mode in MODES.items():
         print(f"Generating {mode} (API game mode: {api_mode})...")
-        hideout_out, quests_out, images, prices_out = build_mode(api_mode, old_images)
+        hideout_out, quests_out, images, prices_out, keys_out = build_mode(api_mode, old_images)
         out_dir = os.path.join(REPO_ROOT, "data", mode)
         os.makedirs(out_dir, exist_ok=True)
         targets = [out_dir]
@@ -310,8 +366,12 @@ def main():
                 json.dump(images, f, indent=2, ensure_ascii=False)
             with open(os.path.join(d, "prices.json"), "w", encoding="utf-8") as f:
                 json.dump(prices_out, f, separators=(",", ":"), ensure_ascii=False)
+        # keys.json is v2.2+ only, so it stays out of the legacy top-level set.
+        with open(os.path.join(out_dir, "keys.json"), "w", encoding="utf-8") as f:
+            json.dump(keys_out, f, indent=2, ensure_ascii=False)
         print(f"  {len(hideout_out['modules'])} modules, {len(quests_out['quests'])} quests, "
-              f"{len(images)} item images, {len(prices_out['items'])} priced items")
+              f"{len(images)} item images, {len(prices_out['items'])} priced items, "
+              f"{len(keys_out['tasks'])} key tasks")
     print("Done.")
 
 
